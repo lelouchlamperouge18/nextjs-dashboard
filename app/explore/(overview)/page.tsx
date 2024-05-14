@@ -1,7 +1,5 @@
 import CardWrapper from '@/app/ui/explore/cards';
 import { lusitana } from '@/app/ui/fonts';
-import { Suspense } from 'react';
-import { CardsSkeleton } from '@/app/ui/skeletons';
 
 export default async function Page() {
   return (
