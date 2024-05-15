@@ -7,12 +7,14 @@ import Image from 'next/image';
 import ListVenues from '@/app/mock/venue.json';
 import DefaultVenue from '@/public/default-venue.png';
 import { MagnifyingGlassIcon } from '@heroicons/react/24/outline';
+import classNames from 'classnames';
 
 export default function Page() {
   const [currentPage, setCurrentPage] = useState(1);
   const [pageSize, setPageSize] = useState(3);
   const [searchQuery, setSearchQuery] = useState('');
   const [keywords, setKeywords] = useState<string[]>([]);
+  const [sortOrder, setSortOrder] = useState<'asc' | 'desc' | null>(null);
 
   const handlePageChange = (page: number, pageSize: number) => {
     setCurrentPage(page);
@@ -35,6 +37,11 @@ export default function Page() {
     setSearchQuery('');
   };
 
+  const handleSort = (order: 'asc' | 'desc' | null) => {
+    setSortOrder(order);
+    setCurrentPage(1);
+  };
+
   const filteredData = ListVenues.filter((item) => {
     return keywords.every(
       (keyword) =>
@@ -43,7 +50,17 @@ export default function Page() {
     );
   });
 
-  const paginatedData = filteredData.slice(
+  const sortedData = filteredData.sort((a, b) => {
+    if (sortOrder === 'asc') {
+      return a.name.localeCompare(b.name);
+    } else if (sortOrder === 'desc') {
+      return b.name.localeCompare(a.name);
+    } else {
+      return 0;
+    }
+  });
+
+  const paginatedData = sortedData.slice(
     (currentPage - 1) * pageSize,
     currentPage * pageSize,
   );
@@ -68,7 +85,7 @@ export default function Page() {
         />
         <MagnifyingGlassIcon className="absolute left-3 top-1/2 h-[18px] w-[18px] -translate-y-1/2 text-gray-500 peer-focus:text-gray-900" />
       </div>
-      <div className="mt-4 flex flex-wrap items-center gap-2">
+      <div className="mt-4 mb-2 flex flex-wrap items-center gap-2">
         {keywords.length > 0 && <div className="text-sm font-medium">Keywords:</div>}
         {keywords.map((keyword, index) => (
           <Tag
@@ -85,14 +102,27 @@ export default function Page() {
           </div>
         )}
       </div>
-      <div
-        style={{
-          display: 'flex',
-          justifyContent: 'flex-end',
-          marginBottom: '16px',
-          paddingTop: '20px',
-        }}
-      >
+      <div className="flex justify-between items-center mb-6">
+        <div>
+          <Button
+            onClick={() => handleSort(null)}
+            className={classNames({ 'bg-gray-300': sortOrder === null })}
+          >
+            Default
+          </Button>
+          <Button
+            onClick={() => handleSort('asc')}
+            className={classNames('ml-2', { 'bg-gray-300': sortOrder === 'asc' })}
+          >
+            A-Z
+          </Button>
+          <Button
+            onClick={() => handleSort('desc')}
+            className={classNames('ml-2', { 'bg-gray-300': sortOrder === 'desc' })}
+          >
+            Z-A
+          </Button>
+        </div>
         <Pagination
           current={currentPage}
           pageSize={pageSize}
@@ -113,7 +143,7 @@ export default function Page() {
             <div className="flex">
               <Image
                 src={item.photo_url || DefaultVenue}
-                className="max-h-[100px]"
+                className="max-h-[100px] min-w-[100px]"
                 alt="venue-photo"
                 width="100"
                 height="100"
