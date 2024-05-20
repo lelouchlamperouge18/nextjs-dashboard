@@ -3,600 +3,800 @@
     "id": "b389dc63743eddadab77ae60a35cbf5f1f52cb4b70906d1ab73e9d4a",
     "name": "Journal of Infection",
     "bio": "The Journal of Infection is a monthly peer-reviewed medical journal in the field of infectious disease, covering microbiology, epidemiology and clinical practice. Established in 1979, the journal was initially published quarterly by Academic Press. The first editor was Hillas Smith. The Journal of Infection is the official publication of the British Infection Association (formerly the British Infection Society and the British Society for the Study of Infection). Since 2006, the editor-in-chief has been Robert C. Read (University of Southampton, UK) and the publisher is Elsevier.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 100,
+    "rating": 5
   },
   {
     "id": "2092abde6a863b1566349c79d3f8f26a25e4a7baf2d594ad5f071b36",
     "name": "Digital Applications in Archaeology and Cultural Heritage",
     "bio": "The conservation and restoration of cultural property focuses on protection and care of cultural property (tangible cultural heritage), including artworks, architecture, archaeology, and museum collections. Conservation activities include preventive conservation, examination, documentation, research, treatment, and education. This field is closely allied with conservation science, curators and registrars.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 20,
+    "rating": 4
   },
   {
     "id": "0432ea484c2a8b9e3bdef5365518a87155d98eb341ec9e5bf24a146f",
     "name": "Journal of Molecular Liquids",
     "bio": "Fausto Martelli (born March 27, 1982) is an Italian physicist based in the United Kingdom. He was appointed Senior Research Scientist at IBM Research Europe in 2018 and Honorary Lecturer at the University of Manchester in 2022. He previously held a position of Faculty Associate Researcher at the Department of Chemistry, Princeton University. His background is in the physics and chemistry of disordered materials with a focus on the properties of soft matter.\nBorn on March 27, 1982 in Bergamo, Italy, he obtained his undergraduate degree from the University of Milan.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Viscosities.gif"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Viscosities.gif",
+    "viewCount": 100,
+    "rating": 3
   },
   {
     "id": "068c4097cc1018f31c47a2fa3e423d1a9ab46f0a07355c1d90045123",
     "name": "Transgender Health",
     "bio": "Transgender Health is a bimonthly peer-reviewed academic journal covering transgender health. It was established in 2016 and is published by Mary Ann Liebert. The editor-in-chief is Robert Garofalo (Northwestern University).",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 500,
+    "rating": 1
   },
   {
     "id": "fe96471208d7babdf08686e8877a383dbbc37cedadc8118e4549c3c1",
     "name": "Journal of Neurological Surgery Part B: Skull Base",
     "bio": "Nasopharyngeal cyst refers to cystic swelling arising from midline and lateral wall of the nasopharynx. The commonest cyst arising from lateral wall is the nasopharyngeal branchial cyst, whereas the mucus retention cysts are the commonest to arise from the midline. Sometimes nasopharyngeal cyst may directly refer to Tornwaldt cyst. It arises from the midline and lies deep to the pharyngobasilar fascia which helps to distinguish it from a mucous retention cyst. The main difference lies in that nasopharyngeal branchial cyst is congenital whereas the Tornwaldt's cyst is acquired.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Clivus.png"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Clivus.png",
+    "viewCount": 65,
+    "rating": 2
   },
   {
     "id": "4a35e20b8c5330c73e0ff6138afe1269e718f47e2cab533f3ade4ec1",
     "name": "Chemik Polski",
     "bio": "Chemik Polski was the first Polish scientific journal of chemistry. It was published weekly, and later bi-weekly, in the years 1901-1918 by the Chemistry Section of the Warsaw Branch of the Russian Society for the Promotion of Industry and Commerce and covered all branches of theoretical and applied chemistry. The journal was published in Warsaw, initially by J. Leski, and from 1908 by Boleslaw Miklaszewski. The founder and editor in chief was Bronislaw Znatowicz. Contributors included Marie Curie and Wojciech Świętosławski.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 190,
+    "rating": 3
   },
   {
     "id": "acf8f86208cdd713549312f01b61b91111aae038c689572855996764",
     "name": "The Neuroradiology Journal",
     "bio": "The Neuroradiology Journal  is a bimonthly peer-reviewed medical journal covering diagnostic neuroradiology. It was established in 1994 and is published by SAGE Publications.  The editor-in-chief is Luca Saba (University_of_Cagliari).",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 100,
+    "rating": 5
   },
   {
     "id": "c1e9d86f2233705cc538c3ca89632143d564393a687e0e44d20b7b7d",
     "name": "Journal of Computational Physics",
     "bio": "The Journal of Computational Physics is a bimonthly scientific journal covering computational physics that was established in 1966 and is published by Elsevier. As of 2015, its editor-in-chief is Rémi Abgrall (University of Zurich). According to the Journal Citation Reports, Journal of Computational Physics has a 2021 impact factor of 4.645, ranking it third out of 56 in the category Physics, Mathematical.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 100,
+    "rating": 5
   },
   {
     "id": "5dbe0af36ad9b16eaa4530205d93a408c769aec5216f7ebfc12fd881",
     "name": "International Symposium on Wearable Computers",
     "bio": "The International Symposium on Wearable Computers or ISWC (pronounced \"iz-wic\") is one of the most prominent academic conferences on wearable computing and ubiquitous computing.\nIts first edition was held in 1997 in Cambridge, MA, USA. Proceedings from every edition are published by IEEE Press.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Apple_Watch-.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Apple_Watch-.jpg",
+    "viewCount": 100,
+    "rating": 5
   },
   {
     "id": "7d1d512cb93ac4474342b422cce4747db630c70cc8990c85c8e7fdd1",
     "name": "Music Educators Journal",
     "bio": "The Music Educators Journal is a quarterly peer-reviewed academic journal that covers in the field of education. The editor-in-chief is Ella Wilcox, and the Academic Editor is Corin Overland (University of Miami). It was established in 1914 and is currently published by SAGE Publications on behalf of the National Association for Music Education.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 999,
+    "rating": 4
   },
   {
     "id": "ca1a031a963d67ba88fd5d4c698707132ff9135f5ebca3124669dcd2",
     "name": "School Psychology Review",
     "bio": "School Psychology Review is a quarterly peer-reviewed academic journal published by the National Association of School Psychologists. It was established in 1972 and covers issues related to educational psychology, specifically school psychology. The editor-in-chief is Shane Jimerson (University of California Santa Barbara).",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 100,
+    "rating": 5
   },
   {
     "id": "df0820b4aa849e1b65f05c7eeef56daba645b705e89d0fc84d8807fb",
     "name": "Omega",
     "bio": "Omega (stylized OMEGA, full titles: OMEGA - Journal of Death and Dying and Omega: An International Journal for the Study of Dying, Death, Bereavement, Suicide, and Other Lethal Behaviors) is a peer-reviewed academic journal covering all aspects of the study of death and dying. It is a multidisciplinary journal, covering disciplines including psychology, sociology, and anthropology.It was established in 1970 and is published eight times per year by SAGE Publications. It is the official journal of the Center for Psychological Studies of Dying, Death, and Lethal Behavior at Wayne State University. The editor-in-chief is Kenneth J. Doka (College of New Rochelle). According to the Journal Citation Reports, the journal has a 2017 impact factor of 0.87, ranking it 94th out of 135 journals in the category \"Psychology, Multidisciplinary\" and 36th out of 42 in the category \"Social Sciences, Biomedical\".",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 2134,
+    "rating": 4
   },
   {
     "id": "eda0cbbe44fef835cdd684c09f04108dbf740e919742d0dfced9f141",
     "name": "Transplantation and Cellular Therapy",
     "bio": "Transplant rejection occurs when transplanted tissue is rejected by the recipient's immune system, which destroys the transplanted tissue. Transplant rejection can be lessened by determining the molecular similitude between donor and recipient and by use of immunosuppressant drugs after transplant.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Adoptive_T-cell_therapy.png"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Adoptive_T-cell_therapy.png",
+    "viewCount": 213,
+    "rating": 4
   },
   {
     "id": "4cb59d4c2c4f5bc2a43bf2ec2dacdc37fcdec91871cbdfbe324b9937",
     "name": "TAF Preventive Medicine Bulletin",
     "bio": "TAF Preventive Medicine Bulletin is a bimonthly peer-reviewed medical journal covering primary medical services and preventive medicine. It was established in 2001. From 2011 to 2016 it was abstracted and indexed in Scopus.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 856,
+    "rating": 4
   },
   {
     "id": "acf74905907d7ca5ac87fdbe232ddfbe637b79b623ca4a9473d78c3c",
     "name": "Journal of Renewable Materials",
     "bio": "Renewable energy is energy from renewable resources that are naturally replenished on a human timescale. Renewable resources include sunlight, wind, the movement of water, and geothermal heat. Although most renewable energy sources are sustainable, some are not. For example, some biomass sources are considered unsustainable at current rates of exploitation. Renewable energy is often used for electricity generation, heating and cooling. Renewable energy projects are typically large-scale, but they are also suited to rural and remote areas and developing countries, where energy is often crucial in human development.Renewable energy is often deployed together with further electrification, which has several benefits: electricity can move heat or objects efficiently, and is clean at the point of consumption. From 2011 to 2021, renewable energy grew from 20% to 28% of global electricity supply. Use of fossil energy shrank from 68% to 62%, and nuclear from 12% to 10%. The share of hydropower decreased from 16% to 15% while power from sun and wind increased from 2% to 10%. Biomass and geothermal energy grew from 2% to 3%. There are 3,146 gigawatts installed in 135 countries, while 156 countries have laws regulating the renewable energy sector.  In 2021, China accounted for almost half of the global increase in renewable electricity.Globally there are over 10 million jobs associated with the renewable energy industries, with solar photovoltaics being the largest renewable employer. Renewable energy systems are rapidly becoming more efficient and cheaper and their share of total energy consumption is increasing, with a large majority of worldwide newly installed electricity capacity being renewable. In most countries, photovoltaic solar or onshore wind are the cheapest new-build electricity.Many nations around the world already have renewable energy contributing more than 20% of their total energy supply, with some generating over half their electricity from renewables. A few countries generate all their electricity using renewable energy. National renewable energy markets are projected to continue to grow strongly in the 2020s and beyond. According to the IEA, to achieve net zero emissions by 2050, 90% of global electricity generation will need to be produced from renewable sources. Some studies have shown that a global transition to 100% renewable energy across all sectors – power, heat, transport and industry – is feasible and economically viable.Renewable energy resources exist over wide geographical areas, in contrast to fossil fuels, which are concentrated in a limited number of countries. Deployment of renewable energy and energy efficiency technologies is resulting in significant energy security, climate change mitigation, and economic benefits. However renewables are being hindered by hundreds of billions of dollars of fossil fuel subsidies. In international public opinion surveys there is strong support for renewables such as solar power and wind power. In 2022 the International Energy Agency asked countries to solve policy, regulatory, permitting and financing obstacles to adding more renewables, to have a better chance of reaching net zero carbon emissions by 2050.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Chilean_purse_seine.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Chilean_purse_seine.jpg",
+    "viewCount": 2134,
+    "rating": 4
   },
   {
     "id": "902cb5ec3539ce7aa66b3c814f07499ad536d4c3b8d33742940b6c73",
     "name": "European Conference on Information Retrieval",
     "bio": "The European Conference on Information Retrieval (ECIR) is the main \nEuropean research conference for the presentation of new results in the field of information retrieval (IR).\nIt is organized by the Information Retrieval Specialist Group of the British Computer Society (BCS-IRSG).\nThe event started its life as the Annual Colloquium on Information Retrieval Research in 1978 and was \nheld in the UK each year until 1998 when it was hosted in Grenoble, France. Since then the venue has\nalternated between the United Kingdom and continental Europe. To mark the metamorphosis\nfrom a small informal colloquium to a major event in the IR research calendar, the \nBCS-IRSG later renamed the event to European Conference on Information Retrieval. In recent years,\nECIR has continued to grow and has become the major European forum for the discussion\nof research in the field of Information Retrieval.\nSome of the topics dealt with include:\n\nIR models, techniques, and algorithms\nIR applications\nIR system architectures\nTest and evaluation methods for IR\nNatural Language Processing for IR\nDistributed IR\nMultimedia and cross-media IR",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 2134,
+    "rating": 4
   },
   {
     "id": "b85bc5482749a4f064406518e81ef3576b97e2bef42acd08a8dd108f",
     "name": "Current Directions in Psychological Science",
     "bio": "Current Directions in Psychological Science  is a bimonthly peer-reviewed scientific journal from the Association for Psychological Science (APS) that is published by SAGE Publications.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 2134,
+    "rating": 4
   },
   {
     "id": "a82db223801f8cd9e7fd5c52f71b84be2216ced470eaf50988fb3f7c",
     "name": "Journal of Marketing",
     "bio": "The Journal of Marketing is a bimonthly scholarly journal that publishes peer-reviewed research in marketing. It is published by the American Marketing Association. Established in 1936, It is the fourth-oldest major journal covering marketing issues; others include the Harvard Business Review (1920), the Journal of Retailing (1925), and the Journal of Business (1928).",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 1000,
+    "rating": 4
   },
   {
     "id": "5ed75846a21dfb57b872bfb0736e1ab82f8085feaf1b776d1e0eb175",
     "name": "American Journal of Public Health",
     "bio": "The American Journal of Public Health is a monthly peer-reviewed public health journal published by the American Public Health Association that covers health policy and public health. The journal was established in 1911 and its stated mission is \"to advance public health research, policy, practice, and education.\" The journal occasionally publishes themed supplements. The editor-in-chief is Alfredo Morabia. \n\n",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 1000,
+    "rating": 4
   },
   {
     "id": "0e0e117ccd721edca2a0453eab29c5d376a055b1e00fee0c111aad64",
     "name": "Acadiensis",
     "bio": "Acadiensis: Journal of the History of the Atlantic Region (fr: Acadiensis: Revue d'histoire de la région Atlantique) is a semi-annual peer-reviewed academic journal covering the history of Atlantic Canada. The current editors-in-chief are Erin Morton (University of New Brunswick) and Peter Twohig (St Mary's University). It is published by the Department of History at the University of New Brunswick, with articles in either English or French. The name Acadiensis originated with an earlier periodical with the same name, a general interest quarterly magazine for the Maritime provinces, with an emphasis on local history. It was published in Saint John, New Brunswick by David Russell Jack from 1901 to 1908 but failed due to insufficient financial support.Acadiensis was awarded the Clio Prize of the Canadian Historical Association in 1979 for its promotion of regional history. The journal has sponsored the biennial Atlantic Canada Studies Conference since 1974 and awards an annual David Alexander Prize for the best undergraduate essay on Atlantic Canada history. A weekly blog, edited by Corey Slumkoski (Mount Saint Vincent University), publishes current commentaries. A related organization, Acadiensis Press, was established in 1980 to publish books, mainly scholarly editions of documents and thematic collections of essays.Longterm citation data for Acadiensis reported by Scopus in 2017 rated the journal in the 68th percentile and ranked it 303 in a list of 983 history journals.In June 2022, the journal decided to discontinue the printed edition and move to digital publication only, beginning with the 2023 issues.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 1000,
+    "rating": 4
   },
   {
     "id": "74d6c5e8bbc404f3465c71fd7a81da0dff3cabff8b1b3f40eca3dc78",
     "name": "Australian Journal of French Studies",
     "bio": "Julie or the New Heloise (French: Julie ou la nouvelle Héloïse), originally entitled Lettres de Deux Amans, Habitans d'une petite Ville au pied des Alpes (\"Letters from two lovers, living in a small town at the foot of the Alps\"), is an epistolary novel by Jean-Jacques Rousseau, published in 1761 by Marc-Michel Rey in Amsterdam. The novel's subtitle points to the history of Héloïse d'Argenteuil and Peter Abélard, a medieval story of passion and Christian renunciation.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 555,
+    "rating": 3
   },
   {
     "id": "f2c5f938afa1d01b28e25c1ff966a95f1044fd80c2654aefc4dbc956",
     "name": "Australian critical care",
     "bio": "Australian Critical Care is a bimonthly peer-reviewed nursing journal covering clinically relevant research, reviews, and articles of interest to the critical care community. It is published by Elsevier and was established in 1988, with Pam Robinson as its founding editor-in-chief. It is the official journal of the Australian College of Critical Care Nurses and its current editor-in-chief is Andrea Marshall (Griffith University).",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 555,
+    "rating": 3
   },
   {
     "id": "bf66ce82c9ee9e298ea93cb4450576d06d5b29d03942997260fcbe9b",
     "name": "International Journal of Information Management",
     "bio": "Information management (IM) is the appropriate and optimized capture, storage, retrieval, and use of information. It may be personal information management or organizational. IM for organizations concerns a cycle of organizational activity: the acquisition of information from one or more sources, the custodianship and the distribution of that information to those who need it, and its ultimate disposal through archiving or deletion and extraction.\nThis cycle of information organisation involves a variety of stakeholders, including those who are responsible for assuring the quality, accessibility and utility of acquired information; those who are responsible for its safe storage and disposal; and those who need it for decision making. Stakeholders might have rights to originate, change, distribute or delete information according to organisational information management policies.\nInformation management embraces all the generic concepts of management, including the planning, organizing, structuring, processing, controlling, evaluation and reporting of information activities, all of which is needed in order to meet the needs of those with organisational roles or functions that depend on information. These generic concepts allow the information to be presented to the audience or the correct group of people. After individuals are able to put that information to use, it then gains more value.\nInformation management is closely related to, and overlaps with, the management of data, systems, technology, processes and – where the availability of information is critical to organisational success – strategy. This broad view of the realm of information management contrasts with the earlier, more traditional view, that the life cycle of managing information is an operational matter that requires specific procedures, organisational capabilities and standards that deal with information as a product or a service.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/LIS_SidebarPicture.png"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/LIS_SidebarPicture.png",
+    "viewCount": 555,
+    "rating": 3
   },
   {
     "id": "e2f64491aeffc04cd2f3e6f9ca70c99330afe9d25a9593c49589ee15",
     "name": "The Plant Cell",
     "bio": "The Plant Cell is a monthly peer-reviewed scientific journal of plant sciences, especially the areas of cell and molecular biology, genetics, development, and evolution. It is published by the American Society of Plant Biologists. The editor-in-chief is Blake Meyers (Donald Danforth Plant Science Center). The journal was established in 1989, with Robert (Bob) Goldberg (University of California, Los Angeles) as  founding editor-in-chief.According to the Journal Citation Reports, the journal has a 2021 impact factor of 12.085.In October 2009, The Plant Cell introduced Teaching Tools in Plant Biology, a new online feature consisting of materials to help instructors teach plant biology courses. Each topic includes a short essay introducing the topic, with suggested further reading, and a PowerPoint lecture with handouts.\n\n",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Plant_cell_structure-en.svg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Plant_cell_structure-en.svg",
+    "viewCount": 555,
+    "rating": 3
   },
   {
     "id": "91d8b784b058771e5c8595ac4b0a5bf06fcf4b8b328f2cb762e9f139",
     "name": "IEEE Journal of Solid-State Circuits",
     "bio": "The IEEE Journal of Solid-State Circuits is a monthly peer-reviewed scientific journal on new developments and research in solid-state circuits, published by the Institute of Electrical and Electronics Engineers (IEEE) in New York City. The journal serves as a companion venue for expanding on work presented at the International Solid-State Circuits Conference, the Symposia on VLSI Technology and Circuits, and the Custom Integrated Circuits Conference. The journal has an impact factor of 6.12 and is edited by Dennis Sylvester (University of Michigan).",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 555,
+    "rating": 3
   },
   {
     "id": "3c402f19c9291d757d7b05fb64fa979529eb9d08b3d245cb259c482a",
     "name": "Sociological Perspectives",
     "bio": "Sociological Perspectives is the official publication of the Pacific Sociological Association. It is a peer-reviewed academic journal published in six issues each year by SAGE. It was first published in 1957 as The Pacific Sociological Review, with John M. Foskett as founding editor. Since 1983 it is known under its current name.As of 2022, the editors are Black Hawk Hancock and Bryan L. Sykes. Articles typically address social processes and are related to economic, political, social, and historical issues.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 555,
+    "rating": 3
   },
   {
     "id": "9d61bf67e3f0433f1985b557af041173d1e5fcd9ce2ce7e03d406304",
     "name": "Journal of Avian Medicine and Surgery",
     "bio": "An avian veterinarian is a veterinarian who specializes in treating birds. All veterinarians, upon first qualification from a certified veterinary college, may treat any species. Additional training is required for qualification to become a recognized specialist in the care of birds.In the United States, a veterinarian can specialize in avian medicine and surgery via post-graduate training through the American Board of Veterinary Practitioners and become a Diplomate of the American Board of Veterinary Practitioners (Avian Practice). Avian veterinarians can become members of the Association of Avian Veterinarians for additional education opportunities including a journal and an annual conference. \nIn Europe, veterinarians become recognized as avian specialists by qualifying as a Diplomate of the European College of Zoological Medicine (Avian), and in Australia and New Zealand by qualifying as a Member or Fellow of the Australian and New Zealand College of Veterinary Scientists.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/A_wounded_bald_eagle_receiving_follow-up_treatment_by_University_of_Tennessee_Veterinary_Hospital._%2816380229252%29.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/A_wounded_bald_eagle_receiving_follow-up_treatment_by_University_of_Tennessee_Veterinary_Hospital._%2816380229252%29.jpg",
+    "viewCount": 555,
+    "rating": 3
   },
   {
     "id": "ffbeea4fcfab33999693871066087ad65abe4c1bede1e5221da03624",
     "name": "International Journal of Quality & Reliability Management",
     "bio": "Quality management ensures that an organization, product or service consistently functions well. It has four main components: quality planning, quality assurance, quality control and quality improvement. Quality management is focused not only on product and service quality, but also on the means to achieve it. Quality management, therefore, uses quality assurance and control of processes as well as products to achieve more consistent quality. Quality control is also part of quality management. What a customer wants and is willing to pay for it, determines quality. It is a written or unwritten commitment to a known or unknown consumer in the market. Quality can be defined as how well the product performs its intended function.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 200,
+    "rating": 2
   },
   {
     "id": "2f6b226507ec4465c5b7eb41019602d17275adbe5b495d863643f434",
     "name": "International Data Privacy Law",
     "bio": "Information privacy is the relationship between the collection and dissemination of data, technology, the public expectation of privacy, contextual information norms, and the legal and political issues surrounding them.  It is also known as data privacy or data protection.\nData privacy is challenging since it attempts to use data while protecting an individual's privacy preferences and personally identifiable information. The fields of computer security, data security, and information security all design and use software, hardware, and human resources to address this issue.\n\n",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 200,
+    "rating": 2
   },
   {
     "id": "375397f859b0c5120c3821b807a09c340adf598befb34efe05bb81d5",
     "name": "Journal of Organometallic Chemistry",
     "bio": "The Journal of Organometallic Chemistry is a peer-reviewed scientific journal published by Elsevier, covering research on organometallic chemistry. According to the Journal Citation Reports, the journal has a 2021 impact factor of 2.345.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 200,
+    "rating": 2
   },
   {
     "id": "30b1fa0500d536081e149229c132089a1feb13ef48e2c8f95cb43781",
     "name": "Distributed Computing",
     "bio": "Distributed Computing is a peer-reviewed scientific journal in the field of computer science, published by Springer. The journal covers the field of distributed computing, with contributions to the theory, specification, design, and implementation of distributed systems.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 200,
+    "rating": 2
   },
   {
     "id": "37fd02cbd592a4ee18a75d6fb369c269f790bac77554665fcf123d1d",
     "name": "Optical Materials",
     "bio": "Optical Materials is a peer-reviewed scientific journal that publishes original papers and review articles on the design, synthesis, characterisation and applications of materials, suitable for various optical devices. The journal also publishes papers about physical and chemical properties of such materials and their applications.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 200,
+    "rating": 2
   },
   {
     "id": "c18421a76c0a4d2d21d24c6d615e8479a51cbf6ae4c6c1710a8b9e02",
     "name": "IEEE/ACM International Conference on Automated Software Engineering (ASE)",
     "bio": "The International Conference on Automated Software Engineering (ASE) is a large annual software engineering conference. The first conference in the series was held in 1986. Between 1986 and 1990 the conference was known as Knowledge-Based Software Assistant (KBSA), between 1991 and 1996 the conference was known as Knowledge-Based Software Engineering (KBSE).",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 666,
+    "rating": 1
   },
   {
     "id": "b1cdbbee5be40f82f4567da35acba10efc3549f669414ae054fa7648",
     "name": "Anatomical Sciences Education",
     "bio": "Anatomical Sciences Education is a peer-reviewed journal that provides an international forum for the exchange of ideas, opinions, innovations and research on topics related to education in the anatomical sciences of gross anatomy, embryology, histology, and neurosciences at all levels of anatomical sciences education including, undergraduate, graduate, post-graduate, allied health, medical (both allopathic and osteopathic), and dental. It is the official publication of the American Association of Anatomists.According to the Journal Citation Reports, the journal has a 2020 impact factor of 5.958, ranking it 3rd out of 45 journals in the category \"Education, Scientific Disciplines\".\n\n",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 666,
+    "rating": 1
   },
   {
     "id": "ab58d6da12bdf5e4ccb34a74f0d212ec2dbb04ff0ab5e16bace1ce9c",
     "name": "Clinical Nutrition",
     "bio": "Clinical nutrition centers on the prevention, diagnosis, and management of nutritional changes in patients linked to chronic diseases and conditions primarily in health care. Clinical in this sense refers to the management of patients, including not only outpatients at clinics and in private practice, but also inpatients in hospitals. It incorporates primarily the scientific fields of nutrition and dietetics. Furthermore, clinical nutrition aims to maintain a healthy energy balance, while also providing sufficient amounts of nutrients such as protein, vitamins, and minerals to patients.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 666,
+    "rating": 1
   },
   {
     "id": "608a0fd87bc1c89734c9538095ac9cfceb11e2ff5d7a8c46156aaac9",
     "name": "Journal of Functional Foods",
     "bio": "Journal of Functional Foods is a monthly peer-reviewed scientific journal covering various aspects of food research. It is published by Elsevier and was established in 2009. The editor-in-chief is Vincenzo Fogliano (Wageningen University) and Mingfu Wang (Shenzhen University).The journal publishes research articles, reviews, and commentaries related to functional foods, including the role of food ingredients, food digestion, safety, and processing.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mizone.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mizone.jpg",
+    "viewCount": 666,
+    "rating": 1
   },
   {
     "id": "7a98133c584e100cc200e881bde22fb031a9daa0a2e9f73d272f0a7e",
     "name": "Clinical Interventions in Aging",
     "bio": "Clinical Interventions in Aging is a peer-reviewed open access medical journal covering research in gerontology. The journal was established in 2006 and is published by Dove Medical Press. The editor-in-chief is Nandu Goswami of the University of Graz.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 666,
+    "rating": 1
   },
   {
     "id": "f9b118a4f84f411076d000261f1b4dfa440047f0c77acca69fa27f8d",
     "name": "Sexuality & Culture",
     "bio": "Sexuality & Culture is a quarterly peer-reviewed academic journal covering ethical, cultural, psychological, social, and political issues related to sexual relationships and sexual behavior. The journal was established in 1997 by Barry Dank and Roberto Refinetti and published by Transaction Publishers. It is currently published by Springer Science+Business Media. The editor-in-chief is Roberto Refinetti (Boise State University).",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 666,
+    "rating": 1
   },
   {
     "id": "f3eb90ea367ecab715050286d1de0f01009fac2fe465fab2c5d51250",
     "name": "American Journal of Roentgenology",
     "bio": "The American Journal of Roentgenology (AJR) is a monthly peer-reviewed journal that covers topics in radiology. It is published by the American Roentgen Ray Society (ARRS) and is based in Leesburg, VA.  The current editor-in-chief (August 2020) is Andrew B. Rosenkrantz.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 10000,
+    "rating": 5
   },
   {
     "id": "1a3bbdb3ae4c8eda084cbfd8da5f59d3ef40bb9fab503e852ac99079",
     "name": "Agriculture",
     "bio": "The history of agriculture in India dates back to the Neolithic period. India ranks second worldwide in farm outputs. As per the Indian economic survey 2020 -21, agriculture employed more than 50% of the Indian workforce and contributed 20.2% to the country's GDP.In 2016, agriculture and allied sectors like animal husbandry, forestry and fisheries accounted for 17.5% of the GDP (gross domestic product) with about 41.49% of the workforce in 2020. India ranks first in the world with highest net cropped area followed by US and China. The economic contribution of agriculture to India's GDP is steadily declining with the country's broad-based economic growth. Still, agriculture is demographically the broadest economic sector and plays a significant role in the overall socio-economic fabric of India.\nThe total agriculture commodities export was US$3.50 billion in March - June 2020. India exported $38 billion worth of agricultural products in 2013, making it the seventh-largest agricultural exporter worldwide and the sixth largest net exporter. Most of its agriculture exports serve developing and least developed nations. Indian agricultural/horticultural and processed foods are exported to more than 120 countries, primarily to the Japan, Southeast Asia, SAARC countries, the European Union and the United States.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Maler_der_Grabkammer_des_Sennudem_001.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Maler_der_Grabkammer_des_Sennudem_001.jpg",
+    "viewCount": 10000,
+    "rating": 5
   },
   {
     "id": "2cc8b3d24fa2dc13afd8f0d0184b89218874679588abfe7a86b15d23",
     "name": "Pediatric Nephrology",
     "bio": "Nephrology (from Greek nephros \"kidney\", combined with the suffix -logy, \"the study of\") is a specialty of adult internal medicine and pediatric medicine that concerns the study of  the kidneys, specifically normal kidney function (renal physiology) and kidney disease (renal pathophysiology), the preservation of kidney health, and the treatment of kidney disease, from diet and medication to renal replacement therapy (dialysis and kidney transplantation).  The word \"renal\" is an adjective meaning \"relating to the kidneys\", and its roots are French or late Latin. Whereas according to some opinions, \"renal\" and \"nephro\" should be replaced with \"kidney\" in scientific writings such as \"kidney medicine\" (instead of nephrology) or \"kidney replacement therapy\", other experts have advocated preserving the use of renal and nephro as appropriate including in \"nephrology\" and \"renal replacement therapy\", respectively.Nephrology also studies systemic conditions that affect the kidneys, such as diabetes and autoimmune disease; and systemic diseases that occur as a result of kidney disease, such as renal osteodystrophy and hypertension.  A physician who has undertaken additional training and become certified in nephrology is called a nephrologist.\nThe term \"nephrology\" was first used in about 1960, according to the French \"néphrologie\" proposed by Pr. Jean Hamburger in 1953, from the Greek νεφρός / nephrós (kidney). Before then, the specialty was usually referred to as \"kidney medicine\".",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/KidneyStructures_PioM.svg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/KidneyStructures_PioM.svg",
+    "viewCount": 10000,
+    "rating": 5
   },
   {
     "id": "9d2b036cf673a9ec37e743f192bd1a0cf1a76e5c6111f9c1b4cf09f3",
     "name": "Geography Compass",
     "bio": "A compass is a device that shows the cardinal directions used for navigation and geographic orientation. It commonly consists of a magnetized needle or other element, such as a compass card or compass rose, which can pivot to align itself with magnetic north. Other methods may be used, including gyroscopes, magnetometers, and GPS receivers.\nCompasses often show angles in degrees: north corresponds to 0°, and the angles increase clockwise, so east is 90°, south is 180°, and west is 270°. These numbers allow the compass to show azimuths or bearings which are commonly stated in degrees. If local variation between magnetic north and true north is known, then direction of magnetic north also gives direction of true north.\nAmong the Four Great Inventions, the magnetic compass was first invented as a device for divination as early as the Chinese Han dynasty (since c. 206 BC), and later adopted for navigation by the Song dynasty Chinese during the 11th century. The first usage of a compass recorded in Western Europe and the Islamic world occurred around 1190.The magnetic compass is the most familiar compass type. It functions as a pointer to \"magnetic north\", the local magnetic meridian, because the magnetized needle at its heart aligns itself with the horizontal component of the Earth's magnetic field. The magnetic field exerts a torque on the needle, pulling the North end or pole of the needle approximately toward the Earth's North magnetic pole, and pulling the other toward the Earth's South magnetic pole. The needle is mounted on a low-friction pivot point, in better compasses a jewel bearing, so it can turn easily. When the compass is held level, the needle turns until, after a few seconds to allow oscillations to die out, it settles into its equilibrium orientation.\nIn navigation, directions on maps are usually expressed with reference to geographical or true north, the direction toward the Geographical North Pole, the rotation axis of the Earth. Depending on where the compass is located on the surface of the Earth the angle between true north and magnetic north, called magnetic declination can vary widely with geographic location. The local magnetic declination is given on most maps, to allow the map to be oriented with a compass parallel to true north. The locations of the Earth's magnetic poles slowly change with time, which is referred to as geomagnetic secular variation. The effect of this means a map with the latest declination information should be used. Some magnetic compasses include means to manually compensate for the magnetic declination, so that the compass shows true directions.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2016_Busola.JPG"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2016_Busola.JPG",
+    "viewCount": 10000,
+    "rating": 5
   },
   {
     "id": "b457b75befe24bf2aab5e27f060fb71d60ab28834fe53ce2b7d6f709",
     "name": "The Lancet Oncology",
     "bio": "The Lancet is a weekly peer-reviewed general medical journal and one of the oldest of its kind. It is also the world's highest-impact academic journal. It was founded in England in 1823.The journal publishes original research articles, review articles (\"seminars\" and \"reviews\"), editorials, book reviews, correspondence, as well as news features and case reports. The Lancet has been owned by Elsevier since 1991, and its editor-in-chief since 1995 has been Richard Horton. The journal has editorial offices in London, New York City, and Beijing.\n\n",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 10000,
+    "rating": 5
   },
   {
     "id": "539a17e63acb8c3f7a6986148832189959b1db0f4b7e014f46021923",
     "name": "Inverse Problems",
     "bio": "Inverse Problems is a peer-reviewed, broad-based interdisciplinary journal for pure and applied mathematicians and physicists produced by IOP Publishing. It combines theoretical, experimental and mathematical papers on inverse problems with numerical and practical approaches to their solution. The journal has a specialized relevance to workers in geophysics, optics, radar, acoustics, communication theory, signal processing and medical imaging.\nThe editor-in-chief is Otmar Scherzer at University of Vienna, Austria.\nIt is indexed in Applied Mechanics Reviews, INSPEC Information Services, ISI (Science Citation Index, SciSearch, ISI Alerting Services, COMPUMATH Citation Index, Current Contents/Physical, Chemical and Earth Sciences), Mathematical Reviews, Current Mathematical Publications, MathSciNet, Article@INIST, Engineering Index/Ei Compendex, Zentralblatt MATH, and VINITI Abstracts Journal.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 10000,
+    "rating": 5
   },
   {
     "id": "66605e265a72c069c827d424d1c8c1172e7c0d18491a0a3cb0e91231",
     "name": "Archives of Sexual Behavior",
     "bio": "The Archives of Sexual Behavior is a peer-reviewed academic journal in sexology. It is the official publication of the International Academy of Sex Research.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 12000,
+    "rating": 5
   },
   {
     "id": "5a5f129e41e68f11fe368bae7d831a7023891cffecd8c9b98453e3f4",
     "name": "Molecular Plant Pathology",
     "bio": "Molecular Plant Pathology is a monthly open access peer-reviewed scientific journal published by Wiley-Blackwell on behalf of the British Society for Plant Pathology. It was established in January 2000 by Gary D. Foster, University of Bristol, who acted as editor-in-chief from 2000 to 2012. The journal covers research concerning plant pathology, in particular its molecular aspects such as plant-pathogen interactions. The current editor-in-chief is Ralph A. Dean (North Carolina State University). The journal had a 2017 impact factor of 4.188, ranking it 17th out of 223 journals in the category \"Plant Sciences\". The journal became open access in January 2019.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Black_rot_lifecycle.tif"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Black_rot_lifecycle.tif",
+    "viewCount": 600,
+    "rating": 5
   },
   {
     "id": "94fb3321c88a169bde470553ff5ae243433a5f4196e8dd15b8a747cf",
     "name": "International Conference on Financial Cryptography and Data Security",
     "bio": "Tokenization, when applied to data security, is the process of substituting a sensitive data element with a non-sensitive equivalent, referred to as a token, that has no intrinsic or exploitable meaning or value. The token is a reference (i.e. identifier) that maps back to the sensitive data through a tokenization system. The mapping from original data to a token uses methods that render tokens infeasible to reverse in the absence of the tokenization system, for example using tokens created from random numbers. A one-way cryptographic function is used to convert the original data into tokens, making it difficult to recreate the original data without obtaining entry to the tokenization system's resources. To deliver such services, the system maintains a vault database of tokens that are connected to the corresponding sensitive data. Protecting the system vault is vital to the system, and improved processes must be put in place to offer database integrity and physical security.The tokenization system must be secured and validated using security best practices applicable to sensitive data protection,  secure storage, audit, authentication and authorization. The tokenization system provides data processing applications with the authority and interfaces to request tokens, or detokenize back to sensitive data. \nThe security and risk reduction benefits of tokenization require that the tokenization system is logically isolated and segmented from data processing systems and applications that previously processed or stored sensitive data replaced by tokens. Only the tokenization system can tokenize data to create tokens, or detokenize back to redeem sensitive data under strict security controls. The token generation method must be proven to have the property that there is no feasible means through direct attack, cryptanalysis, side channel analysis, token mapping table exposure or brute force techniques to reverse tokens back to live data.\nReplacing live data with tokens in systems is intended to minimize exposure of sensitive data to those applications, stores, people and processes, reducing risk of compromise or accidental exposure and unauthorized access to sensitive data. Applications can operate using tokens instead of live data, with the exception of a small number of trusted applications explicitly permitted to detokenize when strictly necessary for an approved business purpose. Tokenization systems may be operated in-house within a secure isolated segment of the data center, or as a service from a secure service provider.\nTokenization may be used to safeguard sensitive data involving, for example, bank accounts, financial statements, medical records, criminal records, driver's licenses, loan applications, stock trades, voter registrations, and other types of personally identifiable information (PII). Tokenization is often used in credit card processing. The PCI Council defines tokenization as \"a process by which the primary account number (PAN) is replaced with a surrogate value called a token. A PAN may be linked to a reference number through the tokenization process. In this case, the merchant simply has to retain the token and a reliable third party controls the relationship and holds the PAN. The token may be created independently of the PAN, or the PAN can be used as part of the data input to the tokenization technique. The communication between the merchant and the third-party supplier must be secure to prevent an attacker from intercepting to gain the PAN and the token.De-tokenization is the reverse process of redeeming a token for its associated PAN value. The security of an individual token relies predominantly on the infeasibility of determining the original PAN knowing only the surrogate value\". The choice of tokenization as an alternative to other techniques such as encryption will depend on varying regulatory requirements, interpretation, and acceptance by respective auditing or assessment entities. This is in addition to any technical, architectural or operational constraint that tokenization imposes in practical use.\n\n",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 111,
+    "rating": 4
   },
   {
     "id": "5cce42ee710f967135c3e2490a49871eb66b315e6d73b78321c14ee2",
     "name": "Cultural Critique",
     "bio": "Cultural Critique is a quarterly peer-reviewed academic journal published across the fields of cultural studies, literary theory, political science, philosophy, and sociology. It was founded in 1985 and is published by the University of Minnesota Press. The journal is currently edited by John Mowitt, Cesare Casarino, Simona Sawhney and Maggie Hennefeld.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 111,
+    "rating": 5
   },
   {
     "id": "2b7703f61df68e5f3b3c836dc379c7a7966a8412701d63019e740a4b",
     "name": "Numerische Mathematik",
     "bio": "Numerische Mathematik is a peer-reviewed mathematics journal on numerical analysis. It was established in 1959 and is published by Springer Science+Business Media. The journal is indexed by Mathematical Reviews and Zentralblatt MATH. Its 2009 MCQ was 1.06, and its 2020 impact factor was 2.223.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 111,
+    "rating": 5
   },
   {
     "id": "edf327a45d73039fb2fba03aca5d22f1936b21b93ec6e7ee6035f07a",
     "name": "Metabolic Engineering",
     "bio": "Metabolic Engineering is a peer-reviewed scientific journal covering research on production of fuels and chemicals using microorganisms and other biological systems. The journal specialises in quantitative analyses of metabolic pathways and their relationship to cell physiology in industrial and medical contexts.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Computational_design_and_evaluation_of_DNA_circuits_to_achieve_optimal_performance.svg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Computational_design_and_evaluation_of_DNA_circuits_to_achieve_optimal_performance.svg",
+    "viewCount": 111,
+    "rating": 5
   },
   {
     "id": "c3aec2a73b38f0c7ff1eee1fd9546a3e196c4aa2ea2e7a76f8bf0ba7",
     "name": "Wood and Fiber Science",
     "bio": "Wood science is the scientific field which predominantly studies and investigates elements associated with the formation, composition and macro- and microstructure of wood. It additionally delves into the biological, chemical, physical, and mechanical properties and characteristics of wood, as a natural lignocellulosic material.Deep understanding of wood plays a pivotal role in various endeavors, such as the processing of wood, the production of wood-based materials like particleboard, fiberboard, OSB, plywood and other materials, as well as the utilization of wood and wood-based materials in construction and a wide array of products, including pulpwood, furniture, engineered wood products such as glued laminated timber, CLT, LVL, PSL, as well as pellets, briquettes, and numerous other products.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Kapok_seeds_I_IMG_8004.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Kapok_seeds_I_IMG_8004.jpg",
+    "viewCount": 111,
+    "rating": 5
   },
   {
     "id": "473add23b9f67fc006ff4db867da113d0fdc7df6edd07943b998e68e",
     "name": "The Sociological Review",
     "bio": "The Sociological Review is a quarterly peer-reviewed academic journal covering all aspects of sociology, including anthropology, criminology, philosophy, education, gender, medicine, and organization. The journal is published by SAGE Publications; before 2017 it was published by Wiley-Blackwell. It is one of the three \"main sociology journals in Britain\", along with the British Journal of Sociology and Sociology, and the oldest British sociology journal.The Sociological Review also publishes a monograph series that presents scholarly articles on issues of general sociological interest, and a themed monthly magazine that ″present[s] timely insights grounded in sociological thinking and [...] writing for a broad readership″.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 222,
+    "rating": 4
   },
   {
     "id": "203696c3b8604d2d637d78a6866ae1c6c27cbe0fa8f8a62ad93492bb",
     "name": "October",
     "bio": "October is an academic journal specializing in contemporary art, criticism, and theory, published by MIT Press.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Maple_leaf_in_fall.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Maple_leaf_in_fall.jpg",
+    "viewCount": 111,
+    "rating": 5
   },
   {
     "id": "57f90f009b50d2efc7bb1c232d9427f6299144fc433a8eb060dd69bb",
     "name": "World Journal of Urology",
     "bio": "The World Journal of Urology is a peer-reviewed scientific journal of urology published by Springer in collaboration with the Société Internationale d'Urologie (SIU). It is the official journal of both the Société Internationale d'Urologie and of the Urological Research Society.\nThe journal was established in April 1983 and is published on an monthly basis.Martin Burchardt is the editor-in-chief since January 2008. The second editor-in-chief is Alexandre de la Taille.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 222,
+    "rating": 4
   },
   {
     "id": "298ffb14a62858c7c60801e5ea1541c478bbc37afc52f49505c23fe3",
     "name": "The Scandinavian Journal of Economics",
     "bio": "The Scandinavian Journal of Economics was established as the Ekonomisk Tidskrift (in Swedish) in 1899 by David Davidson. It became The Swedish Journal of Economics in 1965 (in English) and then The Scandinavian Journal of Economics in 1976. Davidson was the editor until his retirement in 1939 at the age of 85, having run it virtually as a one-man operation.\nIn its early history all articles were written in Swedish. The first article in English was printed in 1947. The journal published many important works by Gustaf Cassel, Knut Wicksell, Eli Heckscher, Gunnar Myrdal, and Erik Lindahl. It is owned by a non-profit association and published on its behalf by Wiley-Blackwell.According to the Journal Citation Reports, the journal has a 2020 impact factor of 1.696.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 222,
+    "rating": 4
   },
   {
     "id": "85b3732a9033fdff182dd3c26817437ab37de374a789c57870697151",
     "name": "Art History",
     "bio": "Art History, journal of the Association for Art History, is an international forum for peer-reviewed scholarship and innovative research. Founded in 1978, the journal publishes essays, critical reviews, and special issues that engage with path-breaking new developments and critical debate in current art-historical practice. Art History covers various genres of art and visual culture across all time periods and geographical areas. The journal welcomes contributions from the full spectrum of methodological perspectives, and it is a forum for a wide range of historical, critical, historiographical and theoretical forms of writing. By means of this expanded definition, Art History works to transform and to extend the modes of enquiry that shape the discipline.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Venus_de_Milo_Louvre_Ma399_n4.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Venus_de_Milo_Louvre_Ma399_n4.jpg",
+    "viewCount": 333,
+    "rating": 5
   },
   {
     "id": "f21bcb519ed48b0fcba5b9f545af10827002b459afdeaf8e3ffab0bc",
     "name": "Journal of Neurosurgery",
     "bio": "The Journal of Neurosurgery is a monthly peer-reviewed medical journal covering all aspects of neurosurgery. It is published by the American Association of Neurological Surgeons and the editor-in-chief is James Rutka. It was established in 1944, with Louise Eisenhardt as founding editor. Originally published bimonthly, it switched to a monthly schedule in 1962. All content is freely available online after 12 months, until it is 10 years old. According to the Journal Citation Reports, the journal has a 2022 impact factor of 4.1.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 333,
+    "rating": 5
   },
   {
     "id": "672ffb7739acbbb3212f205c5267799b68c1ae84b9a3fb5e4ba28d6a",
     "name": "Defence and Peace Economics",
     "bio": "Peace economics is a branch of conflict economics and focuses on the design of the sociosphere's political, economic, and cultural institutions and their interacting policies and actions with the goal of preventing, mitigating, or resolving violent conflict within and between societies. This violent conflict could be of any type and could involve either latent or actual violence. Recognizing the cost of violence, peace economics focuses on the benefits of (re)constructing societies with a view toward achieving irreversible, stable peace. Along with approaches drawn from other areas of scholarship, peace economics forms part of peace science, an evolving part of peace and conflict studies.Despite overlaps, peace economics is distinct from war, military, defense, and security economics, all of which are branches of conflict economics. A key difference between peace economics and these related fields is that peace economics emphasizes the study of the presence of or conditions for peace, as distinct from studying the absence or presence of conflict, violence, war, or insecurity.\nHistory of economic theories of peace\nPeace economics has also been defined as \"the use of economics to understand the causes and effects of violent conflict in the international system and the ways that conflict can be avoided, managed, or resolved.\" This restricts the subject matter to the international realm and leaves out the study of peace itself. Walter Isard defines peace economics as \"generally concerned with: (1) resolution, management or reduction of conflict in the economic sphere, or among behaving units in their economic activity; (2) the use of economic measures and policy to cope with and control conflicts whether economic or not; and (3) the impact of conflict on the economic behavior and welfare of firms, consumers organizations, government and society.\" The notion of violence is absent and peace itself is not studied, but the level of analysis can be other than conflict between states. In a context restricted to international trade, another author writes that \"Peace economics studies ways to eradicate and control conflict as well as to assess conflict's impact on society.\" The notion of violence is not explicit and the benefits of peace are seen only inasmuch as a reduction of conflict may improve opportunities for expanded global trade. Others make a distinction between \"productive\" and \"unproductive\" or \"appropriative\" economic activities their starting point of analysis in peace economics.Economics Nobelist Jan Tinbergen defines peace economics as \"economic science used for [a purpose that] prohibits [war] as an instrument of settling conflicts between nations and [to organize] the world in a way that warfare is punished\". Violence is addressed only at the level of sovereigns, not dealing with civil war or debilitating organized or individual-level criminal violence. In related work, Tinbergen writes about a world order that would inhibit violence and permit peace between and among states. In his view, this requires a \"world government\", a sentiment not now commonly agreed among economists.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 333,
+    "rating": 5
   },
   {
     "id": "00d95a8af937b8f44bef8db743057d3795f5329f7b51677a2773f486",
     "name": "Conference on Lasers and Electro-Optics (CLEO)",
     "bio": "Resonance-enhanced multiphoton ionization (REMPI) is a technique applied to the spectroscopy of atoms and small molecules. In practice, a tunable laser can be used to access an excited intermediate state. The selection rules associated with a two-photon or other multiphoton photoabsorption are different from the selection rules for a single photon transition. The REMPI technique typically involves a resonant single or multiple photon absorption to an electronically excited intermediate state followed by another photon which ionizes the atom or molecule. The light intensity to achieve a typical multiphoton transition is generally significantly larger than the light intensity to achieve a single photon photoabsorption. Because of this, subsequent photoabsorption is often very likely. An ion and a free electron will result if the photons have imparted enough energy to exceed the ionization threshold energy of the system. In many cases, REMPI provides spectroscopic information that can be unavailable to single photon spectroscopic methods, for example rotational structure in molecules is easily seen with this technique.\nREMPI is usually generated by a focused frequency tunable laser beam to form a small-volume plasma.  In REMPI, first m photons are simultaneously absorbed by an atom or molecule in the sample to bring it to an excited state.  Other n photons are absorbed afterwards to generate an electron and ion pair.  The so-called m+n REMPI is a nonlinear optical process, which can only occur within the focus of the laser beam.  A small-volume plasma is formed near the laser focal region.  If the energy of m photons does not match any state, an off-resonant transition can occur with an energy defect ΔE, however, the electron is very unlikely to remain in that state.  For large detuning, it resides there only during the time Δt.  The uncertainty principle is satisfied for Δt, where ћ=h/2π and h is the Planck constant (6.6261×10^-34 J∙s).  Such transition and states are called virtual, unlike real transitions to states with long lifetimes.  The real transition probability is many orders of magnitude higher than the virtual transition one, which is called resonance enhanced effect.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 333,
+    "rating": 4
   },
   {
     "id": "49624eb4cd17b0f6bdfb47acd1663db9ce3bd03545d4779c497dde1d",
     "name": "Experimental and clinical transplantation",
     "bio": "Experimental and Clinical Transplantation is the official journal of the Middle East Society for Organ Transplantation. The scope of the journal includes surgical techniques, innovations, immunobiology and immunosuppression, clinical results and complications. Its editor-in-chief is Mehmet Haberal and there are six issues per year. Its policy is to ensure that all authors of its articles adhere to the rules and regulations stated in the Declaration of Istanbul and by the Committee on Publication Ethics.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 456,
+    "rating": 5
   },
   {
     "id": "a9de5d6704df95065c65a6ad5da2f48fde0e6c95c2babf4a2e0f6d6e",
     "name": "Clinical Imaging",
     "bio": "Clinical Imaging is a peer-reviewed academic journal on medical imaging. It was founded in 1977 and received its current title in 1989. It is published by Elsevier on behalf of the New York Roentgen Society.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 456,
+    "rating": 1
   },
   {
     "id": "3dd0d61b2f2600289575d18f16515ed3efb3e7c928e30bf5771edda8",
     "name": "Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine",
     "bio": "Emergency medicine is the medical speciality concerned with the care of illnesses or injuries requiring immediate medical attention. Emergency physicians (often called \"ER doctors\" in the United States) specialize in providing care for unscheduled and undifferentiated patients of all ages. As first-line providers, in coordination with emergency medical services, they are primarily responsible for initiating resuscitation and stabilization and performing the initial investigations and interventions necessary to diagnose and treat illnesses or injuries in the acute phase. Emergency medical physicians generally practice in hospital emergency departments, pre-hospital settings via emergency medical services, and intensive care units. Still, they may also work in primary care settings such as urgent care clinics.\nSub-specializations of emergency medicine include; disaster medicine, medical toxicology, point-of-care ultrasonography, critical care medicine, emergency medical services, hyperbaric medicine, sports medicine, palliative care, or aerospace medicine.\nVarious models for emergency medicine exist internationally. In countries following the Anglo-American model, emergency medicine initially consisted of surgeons, general practitioners, and other generalist physicians. However, in recent decades it has become recognised as a speciality in its own right with its training programmes and academic posts, and the speciality is now a popular choice among medical students and newly qualified medical practitioners. By contrast, in countries following the Franco-German model, the speciality does not exist, and emergency medical care is instead provided directly by anesthesiologists (for critical resuscitation), surgeons, specialists in internal medicine, paediatricians, cardiologists or neurologists as appropriate. Emergency medicine is still evolving in developing countries, and international emergency medicine programs offer hope of improving primary emergency care where resources are limited.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/US_Navy_040723-N-8977L-008_Navy_Hospital_Corpsmen_and_Medical_Officers_assess_the_treatment_and_prognosis_of_a_patient_with_a_gunshot_wound.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/US_Navy_040723-N-8977L-008_Navy_Hospital_Corpsmen_and_Medical_Officers_assess_the_treatment_and_prognosis_of_a_patient_with_a_gunshot_wound.jpg",
+    "viewCount": 456,
+    "rating": 2
   },
   {
     "id": "b570a4005eb05e21cdc14083a12d4a5a3e1ee490746ffdd98b6ff4e9",
     "name": "IEEE Transactions on Circuits and Systems II: Express Briefs",
     "bio": "The Institute of Electrical and Electronics Engineers (IEEE) is a 501(c)(3) professional association for electronics engineering, electrical engineering, and other related disciplines with its corporate office in New York City and its operations center in Piscataway, New Jersey. The IEEE was formed from the amalgamation of the American Institute of Electrical Engineers and the Institute of Radio Engineers in 1963.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg",
+    "viewCount": 456,
+    "rating": 3
   },
   {
     "id": "df1ab351a2f0ac0af7b46979685991e5b3af1a9bf600f047e73e4b9d",
     "name": "Studia Mathematica",
     "bio": "Studia Mathematica is a triannual peer-reviewed scientific journal of mathematics published by the Polish Academy of Sciences. Papers are written in English, French, German, or Russian, primarily covering functional analysis, abstract methods of mathematical analysis, and probability theory. The editor-in-chief is Adam Skalski.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 456,
+    "rating": 4
   },
   {
     "id": "e13f61809b3968894efa9051452aa53df71028c4d09635128d30ac15",
     "name": "Zeitschrift für Angewandte Mathematik und Physik",
     "bio": "",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 456,
+    "rating": 5
   },
   {
     "id": "b6dc7f8d289707e59119f6dd7fe425d21bac87b295bd4ae57c286cf7",
     "name": "Orthopaedic Journal of Sports Medicine",
     "bio": "The American Orthopaedic Society for Sports Medicine (AOSSM) promotes sports medicine education, research, communication, and fellowship and includes national and international orthopaedic sports medicine leaders. The Society works closely with many other sports medicine specialists, including athletic trainers, physical therapists, family physicians, and others to improve the identification, prevention, treatment, and rehabilitation of sports injuries. Formed in 1972 as a forum for education and research with 100 members, the AOSSM today has to more than 2,000 members.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 456,
+    "rating": 5
   },
   {
     "id": "1ea242c0ce286c68d2458fae5c9fa7200a57d45d80374a72e7df22d2",
     "name": "Antimicrobial Agents and Chemotherapy",
     "bio": "Antimicrobial Agents and Chemotherapy is a peer-reviewed scientific journal published by the American Society for Microbiology. It covers antimicrobial, antiviral, antifungal, and antiparasitic agents and chemotherapy. The editor-in-chief is Cesar A. Arias (University of Texas Health Science Center at Houston). It was established in 1972 by Gladys Lounsbury Hobby.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 456,
+    "rating": 5
   },
   {
     "id": "7265289d54f33434d5d56a52f22541bc0744a9a460f83e424c6557bd",
     "name": "Journal of Human Resources",
     "bio": "The Journal of Human Resources is a bimonthly peer-reviewed academic journal covering empirical microeconomics. It was established in 1965 and is published by The University of Wisconsin Press. The editor-in-chief is Anna Aizer (Brown University). According to the Journal Citation Reports, the journal has a 2021 impact factor of 5.784, ranking it 42 out of 379 journals in the category 'Economics'.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 1500,
+    "rating": 5
   },
   {
     "id": "ddd8c47a9ad9eb7f200866c2113b054168ef046f86168bca37cdcdaa",
     "name": "Canadian Journal of Forest Research",
     "bio": "The Canadian Journal of Forest Research is a peer-reviewed scientific journal published by NRC Research Press. It covers research related to forest resource management, including forest biology, biometry, conservation, economics, genetics, human dimensions, management, operations, protection, policy, remote sensing, soils, silviculture, wildlife and wood science. The journal publishes articles, reviews, notes, and commentaries. The journal was established in 1971 and published quarterly till 1982. From 1983 till 1986 it was published bimonthly and since 1987 it is published monthly.\nThe editors-in-chief are S. Ellen Macdonald and Sylvie Gauthier.The Canadian Journal of Forest Research was selected as one of the DBIO 100, the 100 most influential journals in biology and medicine over the last 100 years as voted by the BioMedical & Life Sciences Division of the Special Libraries Association on the occasion of its centennial.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 1500,
+    "rating": 5
   },
   {
     "id": "e43ed1a1ac03ca719b5d5fcabeacf457c1b317d0aa0d0825e439ff8f",
     "name": "Econometrica",
     "bio": "Econometrica is a peer-reviewed academic journal of economics, publishing articles in many areas of economics, especially econometrics. It is published by Wiley-Blackwell on behalf of the Econometric Society. The current editor-in-chief is Guido Imbens.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 1500,
+    "rating": 5
   },
   {
     "id": "5c926c64a815c5e10b6e489a24766200e0140deda9d8d8d11c0e8190",
     "name": "Comparative Migration Studies",
     "bio": "Migration studies is the academic study of human migration. Migration studies is an interdisciplinary field which draws on anthropology, prehistory, history, economics, law, sociology and postcolonial studies.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 1500,
+    "rating": 4
   },
   {
     "id": "c5fa3e3571441c64c66602a0e857a9899e31e489ae2019420da35952",
     "name": "Educational Policy",
     "bio": "Educational Policy is a peer-reviewed academic journal that covers the field of education policy. The editor-in-chief is Ana M. Martinez Aleman (Boston College). The journal was established in 1987 and is published by SAGE Publishing.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 1500,
+    "rating": 3
   },
   {
     "id": "b787de638b7f34320d53709d31449b7b3621541184d6cde7ea67f56a",
     "name": "MAA FOCUS",
     "bio": "MAA FOCUS is the newsmagazine of the Mathematical Association of America. It carries news items and short articles of interest to the organization's members.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 1500,
+    "rating": 2
   },
   {
     "id": "ead83cf808678f723ba9deb4e819e767ebbc7ee30059df8241bd437e",
     "name": "Human Reproduction Open",
     "bio": "Sexual reproduction is a type of reproduction that involves a complex life cycle in which a gamete (haploid reproductive cells, such as a sperm or egg cell) with a single set of chromosomes combines with another gamete to produce a zygote that develops into an organism composed of cells with two sets of chromosomes (diploid). This is typical in animals, though the number of chromosome sets and how that number changes in sexual reproduction varies, especially among plants, fungi, and other eukaryotes.Sexual reproduction is the most common life cycle in multicellular eukaryotes, such as animals, fungi and plants. Sexual reproduction also occurs in some unicellular eukaryotes. Sexual reproduction does not occur in prokaryotes, unicellular organisms without cell nuclei, such as bacteria and archaea. However, some processes in bacteria, including bacterial conjugation, transformation and transduction, may be considered analogous to sexual reproduction in that they incorporate new genetic information. Some proteins and other features that are key for sexual reproduction may have arisen in bacteria, but sexual reproduction is believed to have developed in an ancient eukaryotic ancestor.In eukaryotes, diploid precursor cells divide to produce haploid cells in a process called meiosis. In meiosis, DNA is replicated to produce a total of four copies of each chromosome. This is followed by two cell divisions to generate haploid gametes. After the DNA is replicated in meiosis, the homologous chromosomes pair up so that their DNA sequences are aligned with each other. During this period before cell divisions, genetic information is exchanged between homologous chromosomes in genetic recombination. Homologous chromosomes contain highly similar but not identical information, and by exchanging similar but not identical regions, genetic recombination increases genetic diversity among future generations.During sexual reproduction, two haploid gametes combine into one diploid cell known as a zygote in a process called fertilization. The nuclei from the gametes fuse, and each gamete contributes half of the genetic material of the zygote. Multiple cell divisions by mitosis (without change in the number of chromosomes) then develop into a multicellular diploid phase or generation. In plants, the diploid phase, known as the sporophyte, produces spores by meiosis. These spores then germinate and divide by mitosis to form a haploid multicellular phase, the gametophyte, which produces gametes directly by mitosis. This type of life cycle, involving alternation between two multicellular phases, the sexual haploid gametophyte and asexual diploid sporophyte, is known as alternation of generations.\nThe evolution of sexual reproduction is considered paradoxical, because asexual reproduction should be able to outperform it as every young organism created can bear its own young. This implies that an asexual population has an intrinsic capacity to grow more rapidly with each generation. This 50% cost is a fitness disadvantage of sexual reproduction. The two-fold cost of sex includes this cost and the fact that any organism can only pass on 50% of its own genes to its offspring. However, one definite advantage of sexual reproduction is that it increases genetic diversity and impedes the accumulation of harmful genetic mutations.Sexual selection is a mode of natural selection in which some individuals out-reproduce others of a population because they are better at securing mates for sexual reproduction. It has been described as \"a powerful evolutionary force that does not exist in asexual populations\".",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Anogenital_distance_female_and_male.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Anogenital_distance_female_and_male.jpg",
+    "viewCount": 1500,
+    "rating": 1
   },
   {
     "id": "df35bc7acf04954219ab36f56d231b1ff59c56958832051f734b22eb",
     "name": "Nature Communications",
     "bio": "Nature Communications is a peer-reviewed, open access, scientific journal published by Nature Portfolio since 2010. It is a multidisciplinary journal that covers the natural sciences, including physics, chemistry, earth sciences, medicine, and biology. The journal has editorial offices in London, Berlin, New York City, and Shanghai.\nThe founding editor-in-chief was Lesley Anson, followed by Joerg Heber, Magdalena Skipper, and Elisa De Ranieri. As of 2022, the editors are Nathalie Le Bot for health and clinical sciences, Stephane Larochelle for biological sciences, Enda Bergin for chemistry and biotechnology, and Prabhjot Saini for physics and earth sciences.\nStarting October 2014, the journal only accepted submissions from authors willing to pay an article processing charge. Until the end of 2015, part of the published submissions were only available to subscribers. In January 2016, all content became freely accessible.Starting from 2017, the journal offers a deposition service to authors for preprints of articles \"under consideration\" as part of the submission process.\n\n",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 3000,
+    "rating": 5
   },
   {
     "id": "531f5967d6687565ac59b2aaf49cf7066e1c1690d023e89c38a9a0e3",
     "name": "West European Politics",
     "bio": "West European Politics is a peer-reviewed academic journal of comparative politics focusing on Western Europe. It was established in 1978 and serves as one of the main publication venues in that field. Its founding editors-in-chief were Vincent Wright and Gordon Smith; the current editors are Klaus Goetz, Anand Menon and Wolfgang C. Müller. According to the Journal Citation Reports, the journal has a 2015 impact factor of 1.464, ranking it 36th out of 163 journals in the category \"Political Science\".",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 3000,
+    "rating": 3
   },
   {
     "id": "0ea3b1335b7391556ac31e7c64a3a9743a65d36fd713c2f5a1bf2edb",
     "name": "Nature Energy",
     "bio": "Nature Energy is a monthly peer-reviewed scientific journal published by Nature Portfolio. The editor-in-chief is Nicky Dean. The 2017 efficiency record (26.6%) in solar cell technology was published in the journal.According to the Journal Citation Reports, the journal has a 2021 impact factor of 67.439, ranking it 1st out of 119 journals in the category \"Energy & Fuels\" and 2nd out of 345 journals in the category \"Materials Science, Multidisciplinary\".",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 3000,
+    "rating": 4
   },
   {
     "id": "5b417085f0763941487726a948e3530d94dedd44c9b20c62a6e2746a",
     "name": "International Journal of Built Environment and Sustainability",
     "bio": "Circles of Sustainability is a method for understanding and assessing sustainability, and for project management directed towards socially sustainable outcomes. It is intended to handle 'seemingly intractable problems' such as outlined in sustainable development debates. The method is mostly used for cities and urban settlements.\nThe style of the charts themselves could be described as a mixture of radar chart and bar chart.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Suburbia_by_David_Shankbone.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Suburbia_by_David_Shankbone.jpg",
+    "viewCount": 999,
+    "rating": 5
   },
   {
     "id": "42559e966c2d4d9268b5f815855bfacf09fbde55d2383e7ae156ce26",
     "name": "Solvay Conference",
     "bio": "The Solvay Conferences (French: Congrès Solvay) have been devoted to preeminent unsolved problems in both physics and chemistry. They began with the historic invitation-only 1911 Solvay Conference on Physics, considered a turning point in the world of physics, and are ongoing.Since the success of 1911, they have been organised by the International Solvay Institutes for Physics and Chemistry, founded by the Belgian industrialist Ernest Solvay in 1912 and 1913, and located in Brussels. The institutes coordinate conferences, workshops, seminars, and colloquia. Recent Solvay Conferences entail a three year cycle: the Solvay Conference on Physics followed by a gap year, followed by the Solvay Conference on Chemistry.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1911_Solvay_conference.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/1911_Solvay_conference.jpg",
+    "viewCount": 999,
+    "rating": 5
   },
   {
     "id": "9109d6d66ccfc69c303f12a6523e1bff7e96b9ddf4f935350b2b9b92",
     "name": "Rapid Prototyping Journal",
     "bio": "3D printing or additive manufacturing is the construction of a three-dimensional object from a CAD model or a digital 3D model. It can be done in a variety of processes in which material is deposited, joined or solidified under computer control, with the material being added together (such as plastics, liquids or powder grains being fused), typically layer by layer.\nIn the 1980s, 3D printing techniques were considered suitable only for the production of functional or aesthetic prototypes, and a more appropriate term for it at the time was rapid prototyping. As of 2019, the precision, repeatability, and material range of 3D printing have increased to the point that some 3D printing processes are considered viable as an industrial-production technology, whereby the term additive manufacturing can be used synonymously with 3D printing. One of the key advantages of 3D printing is the ability to produce very complex shapes or geometries that would be otherwise infeasible to construct by hand, including hollow parts or parts with internal truss structures to reduce weight while creating less material waste. Fused deposition modeling (FDM), which uses a continuous filament of a thermoplastic material, is the most common 3D printing process in use as of 2020.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/PrototypeBoiseGreenbeltSignage.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/PrototypeBoiseGreenbeltSignage.jpg",
+    "viewCount": 999,
+    "rating": 5
   },
   {
     "id": "6e0f4fcc6333a2bd5f9e2b3e79a106fb73ba6ae3ced3b66e0808c39b",
     "name": "Journal of Structural Engineering",
     "bio": "The Journal of Structural Engineering is the principal professional peer-reviewed journal of the  American Society of Civil Engineers, the oldest professional civil engineering society in the United States. The journal is one of the flagship journals of the Society. It is sponsored by its division, the ASCE Structural Engineering Institute.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 999,
+    "rating": 4
   },
   {
     "id": "2006a781c587cbf8fd683066f3a4c7c7ae8dfd4abf0fa9f30f333cdc",
     "name": "Economics Bulletin",
     "bio": "The Economics Bulletin is a peer-reviewed open access academic journal that publishes concise notes, comments, and preliminary results in all areas of economics. The journal does not accept appeals and new versions of previously declined manuscripts. The journal was established in 2001 by Myrna Wooders. The current editor-in-chief is John P. Conley.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 777,
+    "rating": 5
   },
   {
     "id": "d4a60a28fc4c8234704507f073b9562437cf8f581f880069565bdd82",
     "name": "Journal of Science Education and Technology",
     "bio": "The Ministry of Education, Culture, Sports, Science and Technology (文部科学省, Monbu-kagaku-shō, lit. 'Ministry of Letters and Science') is one of the eleven ministries of Japan that composes part of the executive branch of the government of Japan.  Its goal is to improve the development of Japan in relation with the international community. The ministry is responsible for funding research under its jurisdiction, some of which includes: children's health in relation to home environment, delta-sigma modulations utilizing graphs, gender equality in sciences, neutrino detection which contributes to the study of supernovas around the world, and other general research for the future.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Kasumigaseki-Common-Gate-01.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Kasumigaseki-Common-Gate-01.jpg",
+    "viewCount": 777,
+    "rating": 3
   },
   {
     "id": "63e0cd3842235105537da518e8581afaea05aa2a2ae0a38774b56a84",
     "name": "JAMA Otolaryngology–Head & Neck Surgery",
     "bio": "JAMA Otolaryngology—Head & Neck Surgery is a monthly peer-reviewed medical journal published by the American Medical Association and covering all aspects of prevention, diagnosis, and treatment of diseases of the head, neck, ear, nose, and throat. The editor-in-chief is Jay F. Piccirillo (Washington University School of Medicine). It was established in 1925 as the Archives of Otolaryngology and renamed A.M.A. Archives of Otolaryngology in 1950, then renamed Archives of Otolaryngology–Head & Neck Surgery in 1960, before obtaining its current name in 2013.According to the Journal Citation Reports, the journal has a 2021 impact factor of 8.961, ranking it 1st out of 43 titles in the category \"Otorhinolaryngology\".",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 777,
+    "rating": 2
   },
   {
     "id": "0bd286a2272819219796d9f7460dbf488560c3640af093c008fe722c",
     "name": "Journal of Cleaner Production",
     "bio": "The Journal of Cleaner Production is a peer-reviewed academic journal covering transdisciplinary research on cleaner production. It is published by Elsevier. The job of editor-in-chief is shared jointly by Jiří Jaromír Klemeš (Brno University of Technology), Cecília Maria Villas Bôas de Almeida (Paulista University), and Yutao Wang (Fudan University). The former and founding editor-in-chief was Donald Huisingh (University of Tennessee).\nThe Journal of Cleaner Production serves as a transdisciplinary, international forum for the exchange of information and research concepts, policies, and technologies designed to help ensure progress towards making societies and regions more sustainable. It aims to encourage innovation and creativity, new and improved products, and the implementation of new, cleaner structures, systems, processes, products and services. It is also designed to stimulate the development and implementation of prevention oriented governmental policies and educational programmes.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 30,
+    "rating": 5
   },
   {
     "id": "34b8659f09315ba1b0f95a9aa6f627bae22896844660c724fba1bdcb",
     "name": "Critical Reviews in Biotechnology",
     "bio": "Critical Reviews in Toxicology is a peer-reviewed medical journal that publishes review articles on all aspects of toxicology. It is published by Taylor & Francis and the editor-in-chief is Roger O. McClellan. It was established in 1971 as CRC Critical Reviews in Toxicology, obtaining its current name in 1980.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 30,
+    "rating": 4
   },
   {
     "id": "aed41ea4e0bc51a31b6b0d6739c50004ef793b439ebd6cc6f9d9e7b2",
     "name": "IEEE Antennas and Wireless Propagation Letters",
     "bio": "IEEE Antennas and Wireless Propagation Letters is an annual peer-reviewed scientific journal with the goal of rapid dissemination of short manuscripts in the antennas and wireless propagation domains. It is an official journal of the IEEE Antennas & Propagation Society. The current editor-in-chief is Steven Gao (Chinese University of Hong Kong).",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 50,
+    "rating": 5
   },
   {
     "id": "bea27230d5a0ef0eca3551126100891821d4f80b3dbd97cbccfaf3b1",
     "name": "Women and Birth",
     "bio": "Birth is the act or process of bearing or bringing forth offspring, also referred to in technical contexts as parturition. In mammals, the process is initiated by hormones which cause the muscular walls of the uterus to contract, expelling the fetus at a developmental stage when it is ready to feed and breathe.\nIn some species, the offspring is precocial and can move around almost immediately after birth but in others, it is altricial and completely dependent on parenting.\nIn marsupials, the fetus is born at a very immature stage after a short gestation and develops further in its mother's womb  pouch.\nIt is not only mammals that give birth. Some reptiles, amphibians, fish and invertebrates carry their developing young inside them. Some of these are ovoviviparous, with the eggs being hatched inside the mother's body, and others are viviparous, with the embryo developing inside their body, as in the case of mammals.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Opened_Oral_Birth_Control.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Opened_Oral_Birth_Control.jpg",
+    "viewCount": 30,
+    "rating": 5
   },
   {
     "id": "ef4277decd67223f9235a0f0372fef46294d870465c8f87c31697cec",
     "name": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
     "bio": "Chaos theory is an interdisciplinary area of scientific study and branch of mathematics focused on underlying patterns and deterministic laws of dynamical systems that are highly sensitive to initial conditions, and were once thought to have completely random states of disorder and irregularities. Chaos theory states that within the apparent randomness of chaotic complex systems, there are underlying patterns, interconnection, constant feedback loops, repetition, self-similarity, fractals, and self-organization. The butterfly effect, an underlying principle of chaos, describes how a small change in one state of a deterministic nonlinear system can result in large differences in a later state (meaning that there is sensitive dependence on initial conditions). A metaphor for this behavior is that a butterfly flapping its wings in Texas can cause a tornado in Brazil.Small differences in initial conditions, such as those due to errors in measurements or due to rounding errors in numerical computation, can yield widely diverging outcomes for such dynamical systems, rendering long-term prediction of their behavior impossible in general. This can happen even though these systems are deterministic, meaning that their future behavior follows a unique evolution and is fully determined by their initial conditions, with no random elements involved. In other words, the deterministic nature of these systems does not make them predictable. This behavior is known as deterministic chaos, or simply chaos. The theory was summarized by Edward Lorenz as:\nChaos: When the present determines the future, but the approximate present does not approximately determine the future.\nChaotic behavior exists in many natural systems, including fluid flow, heartbeat irregularities, weather, and climate. It also occurs spontaneously in some systems with artificial components, such as road traffic. This behavior can be studied through the analysis of a chaotic mathematical model, or through analytical techniques such as recurrence plots and Poincaré maps. Chaos theory has applications in a variety of disciplines, including meteorology, anthropology, sociology, environmental science, computer science, engineering, economics, ecology, and pandemic crisis management. The theory formed the basis for such fields of study as complex dynamical systems, edge of chaos theory, and self-assembly processes.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Calle_Larga_at_night_during_power_cut.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Calle_Larga_at_night_during_power_cut.jpg",
+    "viewCount": 30,
+    "rating": 5
   },
   {
     "id": "3c1fb6b397fae9c36781d71d76067d2cc832e8508bf47d1a7c2c5495",
     "name": "British Journal of Oral and Maxillofacial Surgery",
     "bio": "The British Association of Oral and Maxillofacial Surgeons is the British medical association for oral and maxillofacial (mouth, jaws and face) surgeons - dual qualified surgeons, qualified in both medicine and dentistry.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 30,
+    "rating": 5
   },
   {
     "id": "c6bb02914d2a95aa494a611d48d8000daf218dbf892e330625e2767c",
     "name": "Current Medicinal Chemistry",
     "bio": "Current Medicinal Chemistry is a peer-reviewed medical journal published by Bentham Science Publishers. The editor-in-chief is Atta-ur-Rahman, FRS (Kings College University of Cambridge Cambridge, UK). The journal covers developments in medicinal chemistry and rational drug design and publishes original research reports and review papers.A related journal titled Current Medicinal Chemistry – Anti-Cancer Agents ISSN 1568-0118 was launched in 2001, and retitled as Anti-Cancer Agents in Medicinal Chemistry from the start of 2006 with ISSN 1871-5206 (print), ISSN 1875-5992 (online).",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 990,
+    "rating": 5
   },
   {
     "id": "b542e4705671c69141602d393b73669db85de849e959a39a8aaf30c4",
     "name": "Mathematics of Operations Research",
     "bio": "Mathematics of Operations Research is a quarterly peer-reviewed scientific journal established in February 1976. It focuses on areas of mathematics relevant to the field of operations research such as continuous optimization, discrete optimization, game theory, machine learning, simulation methodology, and stochastic models. The journal is published by INFORMS (Institute for Operations Research and the Management Sciences). the journal has a 2017 impact factor of 1.078.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 990,
+    "rating": 5
   },
   {
     "id": "8577a5ec0d871ce6048c98aa1e763b2eda0f2fff6fd674d5bc7a77b4",
     "name": "Bioorganic & Medicinal Chemistry Letters",
     "bio": "Bioorganic & Medicinal Chemistry Letters is a scientific journal focusing on the results of research on the molecular structure of biological organisms and the interaction of biological targets with chemical agents. It is published by Elsevier, which also publishes Bioorganic & Medicinal Chemistry for longer works.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 990,
+    "rating": 5
   },
   {
     "id": "833b63d9c0ea0d68c12b7f1825bb4f7c3ca64a6dd1640c4416d223a4",
     "name": "French Studies",
     "bio": "French Studies is a quarterly peer-reviewed academic journal published by Oxford University Press on behalf of the Society for French Studies. It was established in 1947 and covers all periods of French and francophone literature and culture. Articles are published in English or French. The journal is accompanied by a sister publication for shorter articles called The French Studies Bulletin.\nThe editor-in-chief is Timothy Unwin (University of Bristol). From 1987 to 1997, its editor-in-chief was Alan Raitt.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 990,
+    "rating": 4
   },
   {
     "id": "f1740bc5ad9cf50bb0ba7a90186813372ae7ed3cf522f00133ab3ee8",
     "name": "USENIX Security Symposium",
     "bio": "USENIX is an American 501(c)(3) nonprofit membership organization based in Berkeley, California and founded in 1975 that supports advanced computing systems, operating system (OS), and computer networking research. It organizes several conferences in these fields.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/USENIXBooth.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/USENIXBooth.jpg",
+    "viewCount": 990,
+    "rating": 4
   },
   {
     "id": "3c5b3fd5fbea53b9f0b4864d7cd1a5bab77ae37c16387aea92973d5b",
     "name": "International Conference on Supercomputing",
     "bio": "",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 1234,
+    "rating": 4
   },
   {
     "id": "30d69f274e22f6a4116b489339b5e5017ed7e770e028c9827f30d238",
     "name": "Journal of Contingencies and Crisis Management",
     "bio": "The Journal of Contingencies and Crisis Management (JCCM) is a multi-disciplinary, peer-reviewed academic journal that covers all theoretical and practical aspects relating to crisis management.\nJCCM is the leading journal on the subject of crisis management. It was founded in 1993 by Prof. Uriel Rosenthal and Prof. Alexander Kouzmin (University of Plymouth). The current editor is Prof. Ira Helsloot (Radboud Universiteit Nijmegen).\nSubject areas include: emergency management, risk management, contingency plans, foreign policies, ecological crisis, financial crisis, international relations, security policies, and conflict resolution.\nJCCM is published by Wiley-Blackwell. Reviews from older issues are regularly re-published in the Political ReviewNet database.",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 1234,
+    "rating": 4
   },
   {
     "id": "258187cc1dee42e6df05ae6491db907b1e55c9639123642d4366e4d3",
     "name": "International Conference on Software Reuse",
     "bio": "The International Conference on Software Reuse (ICSR), is the primary scientific conference on software reuse, domain analysis, and domain engineering.\nICSR includes software  reuse researchers, practitioners, and managers. The conference provides an archival source for important reuse papers. The conference is also meant to provide reuse information and education to practitioners, and to be an  ongoing platform for technology transfer.\nSoftware reusability, the use of knowledge or artifacts from existing systems to build new ones, is a key software engineering technology important both to engineers and managers. Reuse research has been very  active. Many organizations have reported reuse successes, yet there are still important research issues in  systematic reuse. There is a need for reuse solutions that can be applied across domain and organization boundaries. The conference consists of technical presentations, parallel working groups, plenary sessions, demonstrations, and tutorials.\nTopics include  reuse metrics, case studies and experiments, copyright and legal issues, current issues in reuse libraries, distributed components, formal methods, design and validation of components, domain analysis and engineering, generators, and Integration frameworks.\nList of conferences:",
-    "photo_url": null
+    "photo_url": null,
+    "viewCount": 1234,
+    "rating": 4
   },
   {
     "id": "75915dc80ca05b86d80dfa9591fea83499571c880907f0d09f713f3e",
     "name": "Jamba: Journal of Disaster Risk Studies",
     "bio": "Natural disasters in Nigeria are mainly related to the climate of Nigeria, which has been reported to cause loss of lives and properties.  A natural disaster might be caused by flooding, landslides, and insect infestation, among others. To be classified as a disaster, there is needs to be a profound environmental effect or human loss which must lead to financial loss. This occurrence has become an issue of concern, threatening large populations living in diverse environments in recent years.Nigeria has encountered several forms of disaster, which range from flooding, soil and coastal erosion, landslides, tidal waves, coastal erosion, sand-storms, oil spillage, locust/insect infestations, and other man-made disasters. It can be said that the country's under protected and expansive environment contributed to making the people especially vulnerable to these disasters. Other dangers include northern dust storms, which is usually from northern states to southern, causing damages through large deposits of dust and dirt from these regions. Hail is another cause, which rarely occurs in parts of Nigeria, leading to damage of crops and properties.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Hubbard_Glacier_May_20.2000.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Hubbard_Glacier_May_20.2000.jpg",
+    "viewCount": 1234,
+    "rating": 3
   },
   {
     "id": "e31900d1ce90c470d5b27861045caa75f85b8634f04735e3cc47069d",
     "name": "Journal of Fusion Energy",
     "bio": "Helion Energy, Inc. is an American fusion research company, located in Everett, Washington. They are developing a magneto-inertial fusion technology to produce helium-3 and fusion power via aneutronic fusion, which could produce low-cost clean electric energy using a fuel that can be derived exclusively from water.",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/The_JET_magnetic_fusion_experiment_in_1991.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/The_JET_magnetic_fusion_experiment_in_1991.jpg",
+    "viewCount": 1234,
+    "rating": 2
   }
 ]

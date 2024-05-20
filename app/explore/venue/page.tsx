@@ -7,6 +7,7 @@ import Image from 'next/image';
 import ListVenues from '@/app/mock/venue.json';
 import DefaultVenue from '@/public/default-venue.png';
 import { MagnifyingGlassIcon } from '@heroicons/react/24/outline';
+import { FaEye, FaStar } from 'react-icons/fa';
 import classNames from 'classnames';
 
 export default function Page() {
@@ -65,6 +66,16 @@ export default function Page() {
     currentPage * pageSize,
   );
 
+  const renderStars = (rating: number) => {
+    const stars = [];
+    for (let i = 1; i <= 5; i++) {
+      stars.push(
+        <FaStar key={i} color={i <= rating ? '#ffcc00' : '#e4e5e9'} />
+      );
+    }
+    return stars;
+  };
+
   return (
     <div>
       <h1 className={`${lusitana.className} mb-6 text-xl md:text-2xl`}>
@@ -81,7 +92,7 @@ export default function Page() {
           onChange={handleSearchChange}
           onKeyPress={handleSearchKeyPress}
           className="peer block w-full rounded-md border border-gray-200 py-[9px] pl-10 text-sm outline-2 placeholder:text-gray-500"
-          placeholder="Search venue..."
+          placeholder="Search and press enter..."
         />
         <MagnifyingGlassIcon className="absolute left-3 top-1/2 h-[18px] w-[18px] -translate-y-1/2 text-gray-500 peer-focus:text-gray-900" />
       </div>
@@ -106,19 +117,19 @@ export default function Page() {
         <div>
           <Button
             onClick={() => handleSort(null)}
-            className={classNames({ 'bg-gray-300': sortOrder === null })}
+            className={classNames('my-1', {'bg-gray-300': sortOrder === null })}
           >
             Default
           </Button>
           <Button
             onClick={() => handleSort('asc')}
-            className={classNames('ml-2', { 'bg-gray-300': sortOrder === 'asc' })}
+            className={classNames('ml-2 my-1', { 'bg-gray-300': sortOrder === 'asc' })}
           >
             A-Z
           </Button>
           <Button
             onClick={() => handleSort('desc')}
-            className={classNames('ml-2', { 'bg-gray-300': sortOrder === 'desc' })}
+            className={classNames('ml-2 my-1', { 'bg-gray-300': sortOrder === 'desc' })}
           >
             Z-A
           </Button>
@@ -131,7 +142,7 @@ export default function Page() {
           showSizeChanger
           pageSizeOptions={['3', '5', '10', '20']}
           total={filteredData.length}
-          style={{ marginBottom: '16px' }}
+          style={{ marginBottom: '16px', marginTop: '4px' }}
         />
       </div>
       <List
@@ -153,6 +164,15 @@ export default function Page() {
                   {item.name}
                 </div>
                 <div>{item.bio}</div>
+                <div className="flex items-center mt-2 text-gray-600">
+            <div className="mr-4 flex items-center">
+              <FaEye className="mr-1" />
+              <span>{item?.viewCount || 123}</span>
+            </div>
+            <div className="flex items-center">
+              {renderStars(item?.rating || 5)}
+            </div>
+          </div>
               </div>
             </div>
           </div>
