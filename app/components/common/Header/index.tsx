@@ -104,7 +104,7 @@ export default function Header() {
             flexDir="column"
           >
             <Flex direction="column" gap={4} className='text-3xl'>
-              <Link href="#">Visit our city</Link>
+              <Link href="#">Visit our cities</Link>
               <Link href="#">Things to do</Link>
               <Link href="#">Plan your trip</Link>
             </Flex>
