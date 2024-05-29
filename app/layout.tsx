@@ -1,6 +1,8 @@
 import { Metadata } from 'next';
 import '@/app/ui/global.css';
 import { inter } from '@/app/ui/fonts';
+import Header from './components/common/Header';
+import { Providers } from './providers';
 
 export const metadata: Metadata = {
   title: {
@@ -18,7 +20,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.className} antialiased`}>{children}</body>
+      <body className={`mt-[68px] antialiased ${inter.className}`}>
+        <Providers>
+          <Header />
+          {children}
+        </Providers>
+      </body>
     </html>
   );
 }
