@@ -1,0 +1,14 @@
+{
+  "languages": [
+    { "id": 1, "label": "English" },
+    { "id": 2, "label": "Norsk" },
+    { "id": 3, "label": "Deutsch" },
+    { "id": 4, "label": "Nederlands" },
+    { "id": 5, "label": "Svenska" },
+    { "id": 6, "label": "Dansk" },
+    { "id": 7, "label": "Espanol" },
+    { "id": 8, "label": "Francai" },
+    { "id": 9, "label": "Italiano" },
+    { "id": 10, "label": "VietNamese" }
+  ]
+}

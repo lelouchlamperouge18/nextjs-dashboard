@@ -14,14 +14,17 @@ import {
   DrawerFooter,
   Flex,
 } from '@chakra-ui/react';
+import {
+  ShoppingOutlined,
+  SearchOutlined,
+  CloseOutlined,
+  TranslationOutlined
+} from '@ant-design/icons';
 import Logo from '@/public/icon/logo.svg';
-import Offer from '@/public/icon/offer.svg';
-import Search from '@/public/icon/search.svg';
 import Menu from '@/public/icon/menu.svg';
-import Global from '@/public/icon/global.svg';
 import CommonImage from '@/app/components/common/CommonImage';
-import { CloseIcon } from '@chakra-ui/icons';
 import Link from 'next/link';
+import { LanguageSelector } from '../LanguageSelector';
 
 export default function Header() {
   const { isOpen, onOpen, onClose } = useDisclosure();
@@ -44,34 +47,31 @@ export default function Header() {
             </a>
           </div>
           <nav
-            className={`flex gap-4 p-[0.9375rem] ${isOpen ? 'bg-transparent' : 'bg-white'}`}
+            className={`flex gap-4 p-[1.9375rem] ${isOpen ? 'bg-transparent' : 'bg-white'}`}
           >
-            <HStack spacing={'1.25rem'}>
+            <HStack spacing={'1.75rem'}>
               <Button
                 className="flex h-11 w-12 flex-col items-center"
                 style={{ backgroundColor: 'transparent' }}
               >
-                <CommonImage className="h-6 w-6" src={Offer} alt="icon-offer" />
+                <ShoppingOutlined style={{ fontSize: "24px", color: isOpen ? "white" : "black" }} />
                 <p className={isOpen ? 'text-white' : ''}>Offers</p>
               </Button>
               <Button
                 className="flex h-11 w-12 flex-col items-center"
                 style={{ backgroundColor: 'transparent' }}
               >
-                <CommonImage
-                  className="h-6 w-6"
-                  src={Search}
-                  alt="icon-offer"
-                />
+                <SearchOutlined style={{ fontSize: "24px", color: isOpen ? "white" : "black" }} />
                 <p className={isOpen ? 'text-white' : ''}>Search</p>
               </Button>
+              <LanguageSelector />
               {isOpen ? (
                 <Button
                   onClick={onClose}
                   className="flex h-11 w-12 flex-col items-center "
                   style={{ backgroundColor: 'transparent' }}
                 >
-                  <CloseIcon fontSize={24} textColor={'white'} />
+                  <CloseOutlined style={{ fontSize: "24px", color: "white" }} />
                   <p className={isOpen ? 'text-white' : ''}>Close</p>
                 </Button>
               ) : (
@@ -94,7 +94,7 @@ export default function Header() {
       </header>
       <Drawer isOpen={isOpen} placement="right" onClose={onClose} size="md">
         <DrawerOverlay background="transparent" />
-        <DrawerContent className="pt-16" backgroundColor="#00205b">
+        <DrawerContent className="pt-32" backgroundColor="#00205b">
           <DrawerBody
             paddingInlineStart={10}
             paddingInlineEnd={10}
@@ -103,53 +103,20 @@ export default function Header() {
             display="flex"
             flexDir="column"
           >
-            <Flex direction="column" gap={2}>
-              <Link href="#">Place to go</Link>
-              <Link href="#">Place to go</Link>
-              <Link href="#">Place to go</Link>
-              <Link href="#">Place to go</Link>
+            <Flex direction="column" gap={4} className='text-3xl'>
+              <Link href="#">Visit our cities</Link>
+              <Link href="#">Things to do</Link>
+              <Link href="#">Plan your trip</Link>
             </Flex>
-            <Flex direction="column" gap="0.9375rem">
-              <Link href="#">Meetings</Link>
-              <Link href="#">Meetings</Link>
-              <Link href="#">Meetings</Link>
+            <Flex direction="column" gap="0.9375rem" className='text-lg'>
+              <Link href="#">Contact us</Link>
+              <Link href="#">About us</Link>
+              <Link href="#">Images library</Link>
+              <Link href="#">Social media</Link>
+              <Link href="#">Get your own city site</Link>
+              <Link href="#">Articles contribution</Link>
+              <Link href="#">Donation</Link>
             </Flex>
-            <Flex
-              onClick={onLanguage}
-              cursor="pointer"
-              alignItems="center"
-              gap="0.625rem"
-            >
-              <CommonImage
-                className="h-16 w-16"
-                src={Global}
-                alt="icon-offer"
-              />
-              <p>Change language</p>
-            </Flex>
-          </DrawerBody>
-        </DrawerContent>
-      </Drawer>
-      <Drawer
-        isOpen={isLanguage}
-        placement="right"
-        onClose={onCloseLang}
-        size="md"
-      >
-        <DrawerOverlay background="transparent" />
-        <DrawerContent className="pt-16" backgroundColor="#00205b">
-          <DrawerBody
-            paddingInlineStart={10}
-            paddingInlineEnd={10}
-            textColor="white"
-            gap={74}
-            display="flex"
-            flexDir="column"
-          >
-            <h1 onClick={onCloseLang}>Language</h1>
-            <p>kkkk ccc</p>
-            <p>kkkk ccc</p>
-            <p>kkkk ccc</p>
           </DrawerBody>
         </DrawerContent>
       </Drawer>
