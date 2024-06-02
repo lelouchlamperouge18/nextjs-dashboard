@@ -1,5 +1,4 @@
 'use client';
-import Global from '@/public/icon/global.svg';
 import {
   Drawer,
   DrawerBody,
@@ -8,31 +7,56 @@ import {
   Flex,
   Stack,
   Text,
-  useDisclosure,
   Button,
 } from '@chakra-ui/react';
-import CommonImage from '../CommonImage';
 import { ChevronLeftIcon } from '@chakra-ui/icons';
 import { languages } from '@/app/mock/languages.json';
-import { TranslationOutlined } from '@ant-design/icons';
+import { CloseOutlined, TranslationOutlined } from '@ant-design/icons';
+import { HeaderOpenType } from '@/app/models/header.model';
 
-export function LanguageSelector() {
-  const { isOpen, onOpen, onClose } = useDisclosure();
+type LanguageSelectorProps = {
+  type?: HeaderOpenType;
+  onChangeType: (type?: HeaderOpenType) => void;
+};
+
+export function LanguageSelector({
+  type,
+  onChangeType,
+}: LanguageSelectorProps) {
   return (
     <>
-      <Button
-        onClick={onOpen}
-        className="flex h-11 w-12 flex-col items-center"
-        style={{ backgroundColor: 'transparent' }}
+      {type === HeaderOpenType.language ? (
+        <Button
+          onClick={() => onChangeType()}
+          className="flex h-11 w-12 flex-col items-center "
+          style={{ backgroundColor: 'transparent' }}
+        >
+          <CloseOutlined style={{ fontSize: '24px', color: 'white' }} />
+          <p className="text-white">Close</p>
+        </Button>
+      ) : (
+        <Button
+          onClick={() => onChangeType(HeaderOpenType.language)}
+          className="flex h-11 w-12 flex-col items-center"
+          style={{ backgroundColor: 'transparent' }}
+        >
+          <TranslationOutlined
+            style={{
+              fontSize: '24px',
+              color: type ? 'white' : 'black',
+            }}
+          />
+          <p className={type ? 'text-white' : ''}>Language</p>
+        </Button>
+      )}
+      <Drawer
+        isOpen={!!type}
+        placement="right"
+        onClose={() => onChangeType()}
+        size="md"
       >
-        <TranslationOutlined
-          style={{ fontSize: '24px', color: isOpen ? 'white' : 'black' }}
-        />
-        <p className={isOpen ? 'text-white' : ''}>Language</p>
-      </Button>
-      <Drawer isOpen={isOpen} placement="right" onClose={onClose} size="md">
         <DrawerOverlay background="transparent" />
-        <DrawerContent className="pt-16" backgroundColor="#00205b">
+        <DrawerContent className="pt-24" backgroundColor="#00205b">
           <DrawerBody
             paddingInlineStart={10}
             paddingInlineEnd={10}
@@ -42,7 +66,7 @@ export function LanguageSelector() {
             flexDir="column"
           >
             <Stack
-              onClick={onClose}
+              onClick={() => onChangeType()}
               _hover={{ color: '#9bb9ff' }}
               fontSize="1.5rem"
               fontWeight={700}

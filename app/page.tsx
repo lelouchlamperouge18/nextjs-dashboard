@@ -3,10 +3,30 @@ import styles from '@/app/ui/home.module.css';
 import Link from 'next/link';
 import { lusitana } from '@/app/ui/fonts';
 import Image from 'next/image';
+import SlideData from '@/app/mock/carousel.json';
+import CommonCarousel from '@/app/components/common/CommonCarousel/Carousel';
+import { CardContent, CardFull } from '@/app/components/common/Card';
 
 export default function Page() {
   return (
     <main className="flex min-h-screen flex-col p-6">
+      <div className="mt-4 flex flex-col gap-10">
+        <CommonCarousel>
+          {SlideData.full.map((slide) => (
+            <CardFull key={slide.id} title={slide.title} image={slide.image} />
+          ))}
+        </CommonCarousel>
+        <CommonCarousel>
+          {SlideData.content.map((slide) => (
+            <CardContent
+              key={slide.id}
+              title={slide.title}
+              image={slide.image}
+              description={slide.description}
+            />
+          ))}
+        </CommonCarousel>
+      </div>
       <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-2/5 md:px-20">
           <div className={styles.shape} />

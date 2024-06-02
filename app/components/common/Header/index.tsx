@@ -3,36 +3,31 @@ import {
   Container,
   HStack,
   Button,
-  useDisclosure,
   Drawer,
   DrawerOverlay,
   DrawerContent,
-  DrawerCloseButton,
-  DrawerHeader,
   DrawerBody,
-  Input,
-  DrawerFooter,
   Flex,
 } from '@chakra-ui/react';
 import {
   ShoppingOutlined,
   SearchOutlined,
   CloseOutlined,
-  TranslationOutlined
+  MenuOutlined,
 } from '@ant-design/icons';
 import Logo from '@/public/icon/logo.svg';
-import Menu from '@/public/icon/menu.svg';
 import CommonImage from '@/app/components/common/CommonImage';
 import Link from 'next/link';
 import { LanguageSelector } from '../LanguageSelector';
+import { useState } from 'react';
+import { HeaderOpenType } from '@/app/models/header.model';
 
 export default function Header() {
-  const { isOpen, onOpen, onClose } = useDisclosure();
-  const {
-    isOpen: isLanguage,
-    onOpen: onLanguage,
-    onClose: onCloseLang,
-  } = useDisclosure();
+  const [openType, setOpenType] = useState<HeaderOpenType | undefined>();
+
+  const handleChangeType = (type?: HeaderOpenType) => {
+    setOpenType(type);
+  };
 
   return (
     <>
@@ -47,52 +42,68 @@ export default function Header() {
             </a>
           </div>
           <nav
-            className={`flex gap-4 p-[1.9375rem] ${isOpen ? 'bg-transparent' : 'bg-white'}`}
+            className={`flex gap-4 p-[1.9375rem] ${openType ? 'mr-4 bg-transparent' : 'bg-white'}`}
           >
             <HStack spacing={'1.75rem'}>
               <Button
                 className="flex h-11 w-12 flex-col items-center"
                 style={{ backgroundColor: 'transparent' }}
               >
-                <ShoppingOutlined style={{ fontSize: "24px", color: isOpen ? "white" : "black" }} />
-                <p className={isOpen ? 'text-white' : ''}>Offers</p>
+                <ShoppingOutlined
+                  style={{
+                    fontSize: '24px',
+                    color: openType ? 'white' : 'black',
+                  }}
+                />
+                <p className={openType ? 'text-white' : ''}>Offers</p>
               </Button>
               <Button
                 className="flex h-11 w-12 flex-col items-center"
                 style={{ backgroundColor: 'transparent' }}
               >
-                <SearchOutlined style={{ fontSize: "24px", color: isOpen ? "white" : "black" }} />
-                <p className={isOpen ? 'text-white' : ''}>Search</p>
+                <SearchOutlined
+                  style={{
+                    fontSize: '24px',
+                    color: openType ? 'white' : 'black',
+                  }}
+                />
+                <p className={openType ? 'text-white' : ''}>Search</p>
               </Button>
-              <LanguageSelector />
-              {isOpen ? (
+              <LanguageSelector
+                onChangeType={handleChangeType}
+                type={openType}
+              />
+              {openType === HeaderOpenType.menu ? (
                 <Button
-                  onClick={onClose}
+                  onClick={() => handleChangeType()}
                   className="flex h-11 w-12 flex-col items-center "
                   style={{ backgroundColor: 'transparent' }}
                 >
-                  <CloseOutlined style={{ fontSize: "24px", color: "white" }} />
-                  <p className={isOpen ? 'text-white' : ''}>Close</p>
+                  <CloseOutlined style={{ fontSize: '24px', color: 'white' }} />
+                  <p className="text-white">Close</p>
                 </Button>
               ) : (
                 <Button
-                  onClick={onOpen}
-                  className="flex h-11 w-12 flex-col items-center"
+                  onClick={() => handleChangeType(HeaderOpenType.menu)}
+                  className={`flex h-11 w-12 flex-col items-center`}
                   style={{ backgroundColor: 'transparent' }}
                 >
-                  <CommonImage
-                    className="h-6 w-6"
-                    src={Menu}
-                    alt="icon-offer"
+                  <MenuOutlined
+                    className={`text-2xl ${openType ? 'text-white' : ''}`}
                   />
-                  <p className={isOpen ? 'text-white' : ''}>Menu</p>
+                  <p className={openType ? 'text-white' : ''}>Menu</p>
                 </Button>
               )}
             </HStack>
           </nav>
         </Container>
       </header>
-      <Drawer isOpen={isOpen} placement="right" onClose={onClose} size="md">
+      <Drawer
+        isOpen={openType === HeaderOpenType.menu}
+        placement="right"
+        onClose={() => handleChangeType()}
+        size="md"
+      >
         <DrawerOverlay background="transparent" />
         <DrawerContent className="pt-32" backgroundColor="#00205b">
           <DrawerBody
@@ -103,12 +114,12 @@ export default function Header() {
             display="flex"
             flexDir="column"
           >
-            <Flex direction="column" gap={4} className='text-3xl'>
+            <Flex direction="column" gap={4} className="text-3xl">
               <Link href="#">Visit our cities</Link>
               <Link href="#">Things to do</Link>
               <Link href="#">Plan your trip</Link>
             </Flex>
-            <Flex direction="column" gap="0.9375rem" className='text-lg'>
+            <Flex direction="column" gap="0.9375rem" className="text-lg">
               <Link href="#">Contact us</Link>
               <Link href="#">About us</Link>
               <Link href="#">Images library</Link>
