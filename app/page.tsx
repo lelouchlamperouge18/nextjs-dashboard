@@ -6,11 +6,12 @@ import Image from 'next/image';
 import SlideData from '@/app/mock/carousel.json';
 import CommonCarousel from '@/app/components/common/CommonCarousel/Carousel';
 import { CardContent, CardFull } from '@/app/components/common/Card';
+import CardForcus from './components/common/Card/CardForcus';
 
 export default function Page() {
   return (
     <main className="flex min-h-screen flex-col p-6">
-      <div className="mt-4 flex flex-col gap-10">
+      <div className="mt-4 flex flex-col gap-16">
         <CommonCarousel>
           {SlideData.full.map((slide) => (
             <CardFull key={slide.id} title={slide.title} image={slide.image} />
@@ -26,6 +27,35 @@ export default function Page() {
             />
           ))}
         </CommonCarousel>
+        <div className="px-52">
+          <CommonCarousel
+            className="custom__single-carousel"
+            carouselProps={{
+              responsive: {
+                desktop: {
+                  breakpoint: { max: 4000, min: 1024 },
+                  items: 1,
+                },
+                tablet: {
+                  breakpoint: { max: 1024, min: 464 },
+                  items: 1,
+                },
+                mobile: {
+                  breakpoint: { max: 464, min: 0 },
+                  items: 1,
+                },
+              },
+            }}
+          >
+            {SlideData.focus.map((slide) => (
+              <CardForcus
+                key={slide.id}
+                title={slide.title}
+                image={slide.image}
+              />
+            ))}
+          </CommonCarousel>
+        </div>
       </div>
       <div className="mt-4 flex grow flex-col gap-4 md:flex-row">
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-gray-50 px-6 py-10 md:w-2/5 md:px-20">

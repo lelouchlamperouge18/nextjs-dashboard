@@ -27,6 +27,10 @@ input[type='number']::-webkit-outer-spin-button {
   .react-multiple-carousel__arrow.react-multiple-carousel__arrow--right {
   right: calc(4% + 10px);
 }
+.c__custom-multiple-carousel.custom__single-carousel
+  .react-multiple-carousel__arrow.react-multiple-carousel__arrow--right {
+  right: 1%;
+}
 .c__custom-multiple-carousel
   .react-multiple-carousel__arrow.react-multiple-carousel__arrow--left {
   left: 1%;

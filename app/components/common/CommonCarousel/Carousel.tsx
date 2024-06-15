@@ -1,6 +1,6 @@
 'use client';
 import { ReactNode } from 'react';
-import Carousel from 'react-multi-carousel';
+import Carousel, { CarouselProps } from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 
 const responsive = {
@@ -20,11 +20,19 @@ const responsive = {
 
 type CommonCarouselProps = {
   children?: ReactNode;
+  className?: string;
+  carouselProps?: Partial<CarouselProps>;
 };
 
-const CommonCarousel = ({ children }: CommonCarouselProps) => {
+const CommonCarousel = ({
+  children,
+  carouselProps,
+  className,
+}: CommonCarouselProps) => {
   return (
-    <div className="c__custom-multiple-carousel h-96 w-full px-28">
+    <div
+      className={`c__custom-multiple-carousel h-96 w-full px-28 ${className}`}
+    >
       <Carousel
         ssr
         responsive={responsive}
@@ -33,6 +41,7 @@ const CommonCarousel = ({ children }: CommonCarouselProps) => {
         draggable={false}
         customDot={<CustomDot />}
         renderDotsOutside
+        {...carouselProps}
       >
         {children}
       </Carousel>
