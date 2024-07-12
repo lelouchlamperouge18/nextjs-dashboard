@@ -1,14 +1,18 @@
+import { useMemo } from 'react';
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import styles from '@/app/ui/home.module.css';
 import Link from 'next/link';
 import { lusitana } from '@/app/ui/fonts';
 import Image from 'next/image';
 import SlideData from '@/app/mock/carousel.json';
+import GridData from '@/app/mock/grid.json';
 import CommonCarousel from '@/app/components/common/CommonCarousel/Carousel';
 import { CardContent, CardFull } from '@/app/components/common/Card';
 import CardForcus from './components/common/Card/CardForcus';
+import { GridCardType1, GridCardType2 } from './components/common/GridCard';
 
 export default function Page() {
+  const gridItems = useMemo(() => GridData.full.slice(0, 3), []);
   return (
     <main className="flex min-h-screen flex-col p-6">
       <div className="mt-4 flex flex-col gap-16">
@@ -104,6 +108,15 @@ export default function Page() {
             alt="Screenshot of the dashboard project showing mobile version"
           />
         </div>
+      </div>
+
+      <div className="flex flex-col items-center justify-center p-4 ">
+        <h1 className="mb-4 text-2xl font-bold">Custom GRID Cards Type 1</h1>
+        <GridCardType1 items={gridItems} />
+        <h1 className="mb-4 mt-8 text-2xl font-bold">
+          Custom GRID Cards Type 2
+        </h1>
+        <GridCardType2 items={gridItems} />
       </div>
     </main>
   );
